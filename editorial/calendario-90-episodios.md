@@ -142,40 +142,52 @@ Coluna `S`: `—` pendente · `R` roteirizado · `G` gravado · `P` publicado.
 | E50 | A ATITUDE | "Como acertar isso com a equipe e com o sistema" | R |
 
 ## BLOCO 11 · DECISÃO: quem cuida do quê — contador, advogado, sistema
-| # | Papel | A pergunta |
-|---|---|---|
-| E51 | A DECISÃO | "Meu contador dá conta disso sozinho?" |
-| E52 | O QUE SABER | "O que é apuração e o que é decisão de negócio" |
-| E53 | O QUE SABER | "O que meu sistema precisa entregar e não entrega" |
-| E54 | O SEU NÚMERO | "As três perguntas que testam se você está bem servido" |
-| E55 | A ATITUDE | "Como montar a conversa com quem te atende" |
+**Prazo: setembro/2026 — enquanto estão tomando decisões**
+*[roteiros](../roteiros/bloco-11.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E51 | A DECISÃO | "Meu contador dá conta disso sozinho?" | R |
+| E52 | O QUE SABER | "O que é apuração e o que é decisão de negócio" | R |
+| E53 | O QUE SABER | "O que meu sistema precisa entregar e não entrega" | R |
+| E54 | O SEU NÚMERO | "As três perguntas que testam se você está bem servido" | R |
+| E55 | A ATITUDE | "Como montar a conversa com quem te atende" | R |
 
 ## BLOCO 12 · DECISÃO: o que fazer com a carteira de eventos e catering
-| # | Papel | A pergunta |
-|---|---|---|
-| E56 | A DECISÃO | "Meu cliente de evento é sempre PJ. Continuo nesse mercado?" |
-| E57 | O QUE SABER | "Buffet e festa de empresa entram no regime do setor?" |
-| E58 | O QUE SABER | "Aluguel de salão é fornecimento ou é serviço?" |
-| E59 | O SEU NÚMERO | "Quanto a operação de eventos representa e qual a margem real" |
-| E60 | A ATITUDE | "Reprecificar evento corporativo para 2027" |
+**Prazo: dezembro/2026 — cliente corporativo quer número pra 2027**
+*[roteiros](../roteiros/bloco-12.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E56 | A DECISÃO | "Meu cliente de evento é sempre PJ. Continuo nesse mercado?" | R |
+| E57 | O QUE SABER | "Buffet e festa de empresa entram no regime do setor?" | R |
+| E58 | O QUE SABER | "Aluguel de salão é fornecimento ou é serviço?" | R |
+| E59 | O SEU NÚMERO | "Quanto a operação de eventos representa e qual a margem real" | R |
+| E60 | A ATITUDE | "Reprecificar evento corporativo para 2027" | R |
 
 ## BLOCO 13 · DECISÃO: estrutura societária e número de CNPJs
-| # | Papel | A pergunta |
-|---|---|---|
-| E61 | A DECISÃO | "Tenho três CNPJs pra não estourar o Simples. Continua valendo?" |
-| E62 | O QUE SABER | "O que mudou no cálculo do limite" |
-| E63 | O QUE SABER | "Separar bar de restaurante ajuda ou atrapalha?" |
-| E64 | O SEU NÚMERO | "Como está distribuído o faturamento entre seus CNPJs" |
-| E65 | A ATITUDE | "O que dá pra ajustar ainda este ano" |
+**Prazo: setembro/2026 — ajustes precisam sair antes de ano-novo**
+*[roteiros](../roteiros/bloco-13.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E61 | A DECISÃO | "Tenho três CNPJs pra não estourar o Simples. Continua valendo?" | R |
+| E62 | O QUE SABER | "O que mudou no cálculo do limite" | R |
+| E63 | O QUE SABER | "Separar bar de restaurante ajuda ou atrapalha?" | R |
+| E64 | O SEU NÚMERO | "Como está distribuído o faturamento entre seus CNPJs" | R |
+| E65 | A ATITUDE | "O que dá pra ajustar ainda este ano" | R |
 
 ## BLOCO 14 · DECISÃO: como tratar pessoas e contratos de trabalho
-| # | Papel | A pergunta |
-|---|---|---|
-| E66 | A DECISÃO | "Preciso mudar como contrato e pago minha equipe?" |
-| E67 | O QUE SABER | "Refeição de funcionário é despesa ou é saída?" |
-| E68 | O QUE SABER | "Meu chef é PJ. Isso ficou mais arriscado?" |
-| E69 | O SEU NÚMERO | "Quanto sai da sua cozinha sem nota, por mês" |
-| E70 | A ATITUDE | "Registrar consumo interno sem criar burocracia" |
+**Prazo: janeiro de 2027 — conversa com advogado trabalhista começa agora**
+*[roteiros](../roteiros/bloco-14.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E66 | A DECISÃO | "Preciso mudar como contrato e pago minha equipe?" | R |
+| E67 | O QUE SABER | "Refeição de funcionário é despesa ou é saída?" | R |
+| E68 | O QUE SABER | "Meu chef é PJ. Isso ficou mais arriscado?" | R |
+| E69 | O SEU NÚMERO | "Quanto sai da sua cozinha sem nota, por mês" | R |
+| E70 | A ATITUDE | "Registrar consumo interno sem criar burocracia" | R |
 
 ## BLOCO 15 · DECISÃO: como se preparar para a fiscalização do novo sistema
 | # | Papel | A pergunta |
