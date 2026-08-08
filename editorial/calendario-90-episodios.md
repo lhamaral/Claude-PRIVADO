@@ -94,40 +94,52 @@ Coluna `S`: `—` pendente · `R` roteirizado · `G` gravado · `P` publicado.
 # Blocos 7 a 18 — mapa das decisões
 
 ## BLOCO 7 · DECISÃO: como tratar a operação de delivery e as plataformas
-| # | Papel | A pergunta |
-|---|---|---|
-| E31 | A DECISÃO | "Delivery próprio ou aplicativo: o que sai melhor agora?" |
-| E32 | O QUE SABER | "O aplicativo passou a recolher imposto por mim?" |
-| E33 | O QUE SABER | "Minha nota do iFood está saindo certa?" |
-| E34 | O SEU NÚMERO | "Quanto o delivery pesa no meu faturamento e na minha margem?" |
-| E35 | A ATITUDE | "O que eu cobro da plataforma e o que eu corrijo no meu sistema" |
+**Prazo: até janeiro de 2027 — a plataforma precisa estar segregando corretamente antes das alíquotas mudarem**
+*[roteiros](../roteiros/bloco-07.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E31 | A DECISÃO | "Delivery próprio ou aplicativo: o que sai melhor agora?" | R |
+| E32 | O QUE SABER | "O aplicativo passou a recolher imposto por mim?" | R |
+| E33 | O QUE SABER | "Minha nota do iFood está saindo certa?" | R |
+| E34 | O SEU NÚMERO | "Quanto o delivery pesa no meu faturamento e na minha margem?" | R |
+| E35 | A ATITUDE | "O que eu cobro da plataforma e o que eu corrijo no meu sistema" | R |
 
 ## BLOCO 8 · DECISÃO: política de compras e escolha de fornecedores
-| # | Papel | A pergunta |
-|---|---|---|
-| E36 | A DECISÃO | "Vale a pena trocar de fornecedor por causa de imposto?" |
-| E37 | O QUE SABER | "Meu fornecedor é do Simples. Quanto de crédito ele me passa?" |
-| E38 | O QUE SABER | "Compro no CEASA e do produtor. Isso gera crédito?" |
-| E39 | O SEU NÚMERO | "Quanto das minhas compras vem com imposto destacado?" |
-| E40 | A ATITUDE | "Como renegociar com fornecedor usando esse número" |
+**Prazo: antes de janeiro de 2027 — negociação começa agora**
+*[roteiros](../roteiros/bloco-08.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E36 | A DECISÃO | "Vale a pena trocar de fornecedor por causa de imposto?" | R |
+| E37 | O QUE SABER | "Meu fornecedor é do Simples. Quanto de crédito ele me passa?" | R |
+| E38 | O QUE SABER | "Compro no CEASA e do produtor. Isso gera crédito?" | R |
+| E39 | O SEU NÚMERO | "Quanto das minhas compras vem com imposto destacado?" | R |
+| E40 | A ATITUDE | "Como renegociar com fornecedor usando esse número" | R |
 
 ## BLOCO 9 · DECISÃO: o que fazer com a operação de bebidas
-| # | Papel | A pergunta |
-|---|---|---|
-| E41 | A DECISÃO | "Meu bar tem 70% de bebida. Preciso repensar o negócio?" |
-| E42 | O QUE SABER | "O que é o Imposto Seletivo e por que ele me atinge?" |
-| E43 | O QUE SABER | "Destilado, vinho e cerveja pagam igual?" |
-| E44 | O SEU NÚMERO | "Quanto o Seletivo mexeu no meu custo de compra?" |
-| E45 | A ATITUDE | "Recompor a carta de bebidas sem perder o cliente" |
+**Prazo: imediato — o custo já está subindo em agosto**
+*[roteiros](../roteiros/bloco-09.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E41 | A DECISÃO | "Meu bar tem 70% de bebida. Preciso repensar o negócio?" | R |
+| E42 | O QUE SABER | "O que é o Imposto Seletivo e por que ele me atinge?" | R |
+| E43 | O QUE SABER | "Destilado, vinho e cerveja pagam igual?" | R |
+| E44 | O SEU NÚMERO | "Quanto o Seletivo mexeu no meu custo de compra?" | R |
+| E45 | A ATITUDE | "Recompor a carta de bebidas sem perder o cliente" | R |
 
 ## BLOCO 10 · DECISÃO: política de gorjeta e taxa de serviço
-| # | Papel | A pergunta |
-|---|---|---|
-| E46 | A DECISÃO | "Minha taxa de serviço é 20%. Preciso mudar?" |
-| E47 | O QUE SABER | "Por que 15% virou um número importante?" |
-| E48 | O QUE SABER | "A gorjeta precisa estar separada na nota?" |
-| E49 | O SEU NÚMERO | "Quanto da minha taxa de serviço está acima do limite?" |
-| E50 | A ATITUDE | "Como acertar isso com a equipe e com o sistema" |
+**Prazo: janeiro de 2027 — conversa com equipe começa antes**
+*[roteiros](../roteiros/bloco-10.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E46 | A DECISÃO | "Minha taxa de serviço é 20%. Preciso mudar?" | R |
+| E47 | O QUE SABER | "Por que 15% virou um número importante?" | R |
+| E48 | O QUE SABER | "A gorjeta precisa estar separada na nota?" | R |
+| E49 | O SEU NÚMERO | "Quanto da minha taxa de serviço está acima do limite?" | R |
+| E50 | A ATITUDE | "Como acertar isso com a equipe e com o sistema" | R |
 
 ## BLOCO 11 · DECISÃO: quem cuida do quê — contador, advogado, sistema
 | # | Papel | A pergunta |
