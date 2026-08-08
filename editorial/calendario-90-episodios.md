@@ -190,40 +190,60 @@ Coluna `S`: `—` pendente · `R` roteirizado · `G` gravado · `P` publicado.
 | E70 | A ATITUDE | "Registrar consumo interno sem criar burocracia" | R |
 
 ## BLOCO 15 · DECISÃO: como se preparar para a fiscalização do novo sistema
-| # | Papel | A pergunta |
-|---|---|---|
-| E71 | A DECISÃO | "O fisco vai enxergar mais o meu negócio. O que eu arrumo primeiro?" |
-| E72 | O QUE SABER | "O que mudou na minha nota fiscal" |
-| E73 | O QUE SABER | "Qual o risco de errar o cadastro de um produto" |
-| E74 | O SEU NÚMERO | "Quantas divergências existem hoje entre o seu PDV e as suas notas" |
-| E75 | A ATITUDE | "O que guardar, por quanto tempo, e onde" |
+**Prazo: urgente — auditoria de cadastro começa já**
+*[roteiros](../roteiros/bloco-15.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E71 | A DECISÃO | "O fisco vai enxergar mais o meu negócio. O que eu arrumo primeiro?" | R |
+| E72 | O QUE SABER | "O que mudou na minha nota fiscal" | R |
+| E73 | O QUE SABER | "Qual o risco de errar o cadastro de um produto" | R |
+| E74 | O SEU NÚMERO | "Quantas divergências existem hoje entre o seu PDV e as suas notas" | R |
+| E75 | A ATITUDE | "O que guardar, por quanto tempo, e onde" | R |
 
 ## BLOCO 16 · DECISÃO: como atravessar a transição 2029–2032
-| # | Papel | A pergunta |
-|---|---|---|
-| E76 | A DECISÃO | "Preciso planejar até 2033 ou resolvo ano a ano?" |
-| E77 | O QUE SABER | "Por que vou pagar dois impostos ao mesmo tempo" |
-| E78 | O QUE SABER | "Meu benefício fiscal estadual acaba quando?" |
-| E79 | O SEU NÚMERO | "Quanto de crédito de ICMS você tem acumulado" |
-| E80 | A ATITUDE | "O calendário de decisões até 2033, em uma página" |
+**Prazo: pensamento longo — começa agora**
+*[roteiros](../roteiros/bloco-16.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E76 | A DECISÃO | "Preciso planejar até 2033 ou resolvo ano a ano?" | R |
+| E77 | O QUE SABER | "Por que vou pagar dois impostos ao mesmo tempo" | R |
+| E78 | O QUE SABER | "Meu benefício fiscal estadual acaba quando?" | R |
+| E79 | O SEU NÚMERO | "Quanto de crédito de ICMS você tem acumulado" | R |
+| E80 | A ATITUDE | "O calendário de decisões até 2033, em uma página" | R |
 
 ## BLOCO 17 · DECISÃO: no que acreditar — desmontando o que circula no setor
-| # | Papel | A pergunta |
-|---|---|---|
-| E81 | A DECISÃO | "Como eu separo informação de boato nesse assunto?" |
-| E82 | O QUE SABER | "É verdade que restaurante saiu ganhando?" |
-| E83 | O QUE SABER | "A alíquota é 28%? O Simples vai acabar?" |
-| E84 | O SEU NÚMERO | "Três perguntas que testam qualquer informação que te mandarem" |
-| E85 | A ATITUDE | "Onde conferir, sem depender de vídeo nenhum — inclusive dos meus" |
+**Prazo: contínuo — começa agora, continua depois**
+*[roteiros](../roteiros/bloco-17.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E81 | A DECISÃO | "Como eu separo informação de boato nesse assunto?" | R |
+| E82 | O QUE SABER | "É verdade que restaurante saiu ganhando?" | R |
+| E83 | O QUE SABER | "A alíquota é 28%? O Simples vai acabar?" | R |
+| E84 | O SEU NÚMERO | "Três perguntas que testam qualquer informação que te mandarem" | R |
+| E85 | A ATITUDE | "Onde conferir, sem depender de vídeo nenhum — inclusive dos meus" | R |
 
 ## BLOCO 18 · DECISÃO: o que fazer no próximo ciclo
-| # | Papel | A pergunta |
-|---|---|---|
-| E86 | A DECISÃO | "O que ficou pra trás e ainda dá tempo de resolver?" |
-| E87 | O QUE SABER | "O que já mudou de fato na sua operação" |
-| E88 | O QUE SABER | "O que ainda vai mudar" |
-| E89 | O SEU NÚMERO | "Os dez números que todo dono precisa saber de cor" |
-| E90 | A ATITUDE | "O calendário do próximo ano, decisão por decisão" |
+**Prazo: reflexão — dezembro/2026 e janeiro/2027**
+*[roteiros](../roteiros/bloco-18.md)*
+
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E86 | A DECISÃO | "O que ficou pra trás e ainda dá tempo de resolver?" | R |
+| E87 | O QUE SABER | "O que já mudou de fato na sua operação" | R |
+| E88 | O QUE SABER | "O que ainda vai mudar" | R |
+| E89 | O SEU NÚMERO | "Os dez números que todo dono precisa saber de cor" | R |
+| E90 | A ATITUDE | "O calendário do próximo ano, decisão por decisão" | R |
+
+---
+
+## ✅ SÉRIE COMPLETA: 90 episódios roteirizados
+
+**Blocos 1-18:** todas as decisões mapeadas, roteirizadas e prontas para gravação.
+**Estrutura:** 18 blocos com 5 episódios cada (90 total).
+**Cobertura:** 6 decisões bloco 1-6, 12 decisões blocos 7-18 = 18 decisões tributárias e operacionais para bares e restaurantes em 2026-2033.
 
 ---
 
