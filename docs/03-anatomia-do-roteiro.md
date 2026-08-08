@@ -1,5 +1,29 @@
 # Anatomia do roteiro de 60 segundos
 
+## Duas camadas
+
+Todo episódio tem **duas estruturas simultâneas**, e é preciso escrever para as duas.
+
+**A camada externa — o papel dentro do bloco.** Cada bloco de cinco episódios serve a
+uma decisão, e cada episódio tem uma função nela: A DECISÃO, O QUE SABER, O QUE SABER,
+O SEU NÚMERO, A ATITUDE. O papel determina *o que* o episódio precisa entregar. Está
+definido em [`01-estrategia-editorial.md`](01-estrategia-editorial.md).
+
+**A camada interna — os seis blocos de tempo**, abaixo. Ela determina *como* a entrega
+é feita, e é idêntica em todos os episódios, qualquer que seja o papel.
+
+O papel nunca aparece na tela nem na fala. É estrutura de produção. O espectador vê
+apenas a pergunta.
+
+### O que cada papel exige da camada interna
+
+| Papel | Onde ele aperta |
+|---|---|
+| **A DECISÃO** | O bloco A CONTA mostra o *tamanho do que está em jogo*, não uma conta de imposto. O QUE FAZER aponta para a semana inteira. |
+| **O QUE SABER** | A CONTA traduz a regra num exemplo da casa. Nunca vira aula autônoma: sempre amarra de volta à decisão. |
+| **O SEU NÚMERO** | A CONTA vira **método de levantamento + faixas de leitura**. É o único papel em que a conta ensina a fazer a conta. |
+| **A ATITUDE** | A CONTA vira lista de passos. O QUE FAZER marca prazo e responsável. Fecha a decisão. |
+
 ## A estrutura
 
 Seis blocos. Sempre nessa ordem. Sem exceção — a repetição é o que cria o hábito

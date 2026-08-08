@@ -1,199 +1,222 @@
 # Calendário editorial — 90 episódios
 
-18 semanas · 5 episódios por semana (seg a sex) · 1 minuto cada
+18 blocos · 5 episódios por bloco · 1 minuto cada · 1 por dia útil
 
-**Semanas 1 a 6: roteirizadas e prontas para gravar** → [`roteiros/`](../roteiros/)
-**Semanas 7 a 18: mapeadas**, com pergunta definida, prontas para roteirização.
+**Cada bloco é uma decisão.** Os cinco episódios entregam, nesta ordem: a decisão e seu
+prazo, o conhecimento que ela exige, a armadilha que muda a leitura, o número da própria
+casa, e a atitude final.
 
-Use a coluna `Status` para controlar a produção: `— ` pendente · `R` roteirizado ·
-`G` gravado · `P` publicado.
+A ordem dos blocos segue a prioridade real da decisão — prazo legal em curso, depois
+pré-requisito, depois prazo de virada, depois maturação longa. O critério está em
+[`docs/01-estrategia-editorial.md`](../docs/01-estrategia-editorial.md).
 
----
+**Blocos 1 a 6: roteirizados** → [`roteiros/`](../roteiros/)
+**Blocos 7 a 18: mapeados**, com decisão definida e prontos para roteirização.
 
-## BLOCO I — O relógio está correndo
-*Semana 1 · [roteiros](../roteiros/semana-01.md)*
-
-| # | A pergunta | Status |
-|---|---|---|
-| E01 | "A reforma tributária já começou ou ainda vai começar?" | R |
-| E02 | "Apareceu CBS e IBS na minha nota e o valor não mudou. O que é isso?" | R |
-| E03 | "Meu contador falou que eu preciso decidir alguma coisa até setembro." | R |
-| E04 | "Meu regime especial de ICMS acaba em dezembro. E aí?" | R |
-| E05 | "O que muda de verdade no dia 1º de janeiro de 2027?" | R |
-
-## BLOCO II — O regime dos 40%
-*Semana 2 · [roteiros](../roteiros/semana-02.md)*
-
-| # | A pergunta | Status |
-|---|---|---|
-| E06 | "Ouvi dizer que restaurante vai pagar 40% menos imposto. É isso mesmo?" | R |
-| E07 | "Esse desconto vale pra tudo que eu vendo?" | R |
-| E08 | "Chope e caipirinha entram no desconto?" | R |
-| E09 | "Refrigerante de lata, que eu só abro e sirvo, entra?" | R |
-| E10 | "Compro a sobremesa pronta e só emprato. Continua sendo restaurante?" | R |
-
-## BLOCO III — A conta do crédito
-*Semana 3 · [roteiros](../roteiros/semana-03.md)*
-
-| # | A pergunta | Status |
-|---|---|---|
-| E11 | "O que é esse tal de crédito de imposto, na prática?" | R |
-| E12 | "Vou poder descontar o imposto do que eu compro?" | R |
-| E13 | "A empresa que almoça aqui todo dia vai poder descontar?" | R |
-| E14 | "Então eu vou perder meu cliente corporativo?" | R |
-| E15 | "Dá pra recusar esse desconto de 40%?" | R |
-
-## BLOCO IV — O que entra na conta
-*Semana 4 · [roteiros](../roteiros/semana-04.md)*
-
-| # | A pergunta | Status |
-|---|---|---|
-| E16 | "Vendi R$ 100 no aplicativo e recebi R$ 80. Pago imposto sobre quanto?" | R |
-| E17 | "A taxa de entrega entra na conta do imposto?" | R |
-| E18 | "E os 10% do garçom?" | R |
-| E19 | "Meu couvert artístico é tributado como o quê?" | R |
-| E20 | "Cortesia, brinde e comida de funcionário: pago imposto?" | R |
-
-## BLOCO V — Caixa e split payment
-*Semana 5 · [roteiros](../roteiros/semana-05.md)*
-
-| # | A pergunta | Status |
-|---|---|---|
-| E21 | "O que é esse tal de split payment?" | R |
-| E22 | "O imposto vai sair antes do dinheiro cair na minha conta?" | R |
-| E23 | "Isso vai acabar com o meu capital de giro?" | R |
-| E24 | "Já vale em 2027 pra venda de cartão no balcão?" | R |
-| E25 | "O que eu mudo no meu fluxo de caixa a partir de hoje?" | R |
-
-## BLOCO VI — Sua casa em ordem
-*Semana 6 · [roteiros](../roteiros/semana-06.md)*
-
-| # | A pergunta | Status |
-|---|---|---|
-| E26 | "Meu contador dá conta disso sozinho?" | R |
-| E27 | "Meu sistema de PDV está preparado?" | R |
-| E28 | "Vou ter que mexer no cardápio e nos preços?" | R |
-| E29 | "No fim das contas, vou pagar mais ou menos imposto?" | R |
-| E30 | "Se eu fizer só três coisas este ano, quais são?" | R |
+Coluna `S`: `—` pendente · `R` roteirizado · `G` gravado · `P` publicado.
 
 ---
 
-# Semanas 7 a 18 — mapa
+## BLOCO 1 · DECISÃO: optar ou não pelo regime regular de IBS/CBS
+**Prazo: setembro de 2026** — prazo legal em curso, vence todas as outras
+*[roteiros](../roteiros/bloco-01.md)*
 
-## BLOCO VII — Compras e fornecedores
-| # | A pergunta |
-|---|---|
-| E31 | "Compro no CEASA sem nota. Isso vai ficar mais caro?" |
-| E32 | "Comprar do produtor rural direto vale mais a pena agora?" |
-| E33 | "Meu fornecedor é do Simples. Isso me prejudica?" |
-| E34 | "Carne e arroz são cesta básica. Isso é bom ou ruim pra mim?" |
-| E35 | "Vale a pena trocar de fornecedor por causa de imposto?" |
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E01 | A DECISÃO | "Meu contador falou que eu preciso decidir alguma coisa até setembro." | R |
+| E02 | O QUE SABER | "A reforma já começou ou ainda vai começar?" | R |
+| E03 | O QUE SABER | "Qual a diferença entre pagar dentro da guia única e pagar por fora?" | R |
+| E04 | O SEU NÚMERO | "Como eu descubro quanto do meu faturamento sai pra empresa?" | R |
+| E05 | A ATITUDE | "Decidi. E agora, o que eu faço até o prazo?" | R |
 
-## BLOCO VIII — Bebidas e Imposto Seletivo
-| # | A pergunta |
-|---|---|
-| E36 | "O que é o Imposto Seletivo e por que ele me atinge?" |
-| E37 | "Meu chope vai ficar mais caro? Quanto?" |
-| E38 | "Destilado, vinho e cerveja pagam igual?" |
-| E39 | "Refrigerante paga imposto de bebida açucarada?" |
-| E40 | "Meu bar tem 70% de bebida. O regime dos 40% serve pra mim?" |
+## BLOCO 2 · DECISÃO: arrumar o cadastro fiscal da operação
+**Prazo: antes de janeiro de 2027** — pré-requisito de todos os outros números
+*[roteiros](../roteiros/bloco-02.md)*
 
-## BLOCO IX — Delivery e plataformas
-| # | A pergunta |
-|---|---|
-| E41 | "O aplicativo passou a recolher imposto por mim?" |
-| E42 | "Minha nota do iFood está saindo certa?" |
-| E43 | "Dark kitchen tem o mesmo tratamento de restaurante?" |
-| E44 | "Vendo por WhatsApp e entrego eu mesmo. Muda algo?" |
-| E45 | "Delivery próprio ou aplicativo: qual sai melhor agora?" |
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E06 | A DECISÃO | "Tem alguma coisa no meu sistema que precisa mudar antes de janeiro?" | R |
+| E07 | O QUE SABER | "Quais grupos de produto a lei enxerga na minha casa?" | R |
+| E08 | O QUE SABER | "Refrigerante de lata, que eu só abro e sirvo, conta como preparado?" | R |
+| E09 | O SEU NÚMERO | "Quantos itens do meu cardápio estão no grupo errado?" | R |
+| E10 | A ATITUDE | "Como eu arrumo isso sem parar a operação?" | R |
 
-## BLOCO X — Eventos, buffet e catering
-| # | A pergunta |
-|---|---|
-| E46 | "Faço festa de empresa. Isso é restaurante ou é serviço?" |
-| E47 | "Buffet de casamento entra no regime dos 40%?" |
-| E48 | "Aluguel do salão pra evento é tributado como o quê?" |
-| E49 | "Cobro couvert, rolha e taxa de serviço. Cada um paga diferente?" |
-| E50 | "Meu cliente de evento é sempre PJ. O que eu faço?" |
+## BLOCO 3 · DECISÃO: o que substitui o regime especial de ICMS
+**Prazo: 31/12/2026** — prazo de virada, define o orçamento de 2027
+*[roteiros](../roteiros/bloco-03.md)*
 
-## BLOCO XI — Estrutura societária
-| # | A pergunta |
-|---|---|
-| E51 | "Tenho três CNPJs pra não estourar o Simples. Continua valendo?" |
-| E52 | "Abrir filial ou abrir empresa nova?" |
-| E53 | "Sou franqueado. Quem decide o regime: eu ou a franqueadora?" |
-| E54 | "Separar o bar do restaurante em CNPJs diferentes ajuda?" |
-| E55 | "O imóvel é meu e eu alugo pra minha empresa. Muda alguma coisa?" |
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E11 | A DECISÃO | "Meu regime especial de ICMS acaba em dezembro. E aí?" | R |
+| E12 | O QUE SABER | "Ouvi dizer que restaurante vai pagar 40% menos imposto. É isso mesmo?" | R |
+| E13 | O QUE SABER | "Chope e caipirinha entram no desconto?" | R |
+| E14 | O SEU NÚMERO | "Quanto da minha receita não ganhou desconto nenhum?" | R |
+| E15 | A ATITUDE | "Como eu monto meu orçamento de 2027?" | R |
 
-## BLOCO XII — Pessoas
-| # | A pergunta |
-|---|---|
-| E56 | "A gorjeta entrou no imposto. Como eu organizo isso?" |
-| E57 | "Preciso mudar a nota por causa dos 10%?" |
-| E58 | "Meu garçom é PJ. Isso ficou mais arriscado?" |
-| E59 | "Refeição do funcionário é despesa ou é venda?" |
-| E60 | "Vou precisar contratar alguém só pra fiscal?" |
+## BLOCO 4 · DECISÃO: o que fazer com a carteira de clientes PJ
+**Sem prazo formal — mas o cliente decide antes de você, se você demorar**
+*[roteiros](../roteiros/bloco-04.md)*
 
-## BLOCO XIII — Preço e margem
-| # | A pergunta |
-|---|---|
-| E61 | "Preciso remarcar o cardápio em janeiro?" |
-| E62 | "Como eu calculo o preço do prato com o imposto novo?" |
-| E63 | "Meu concorrente baixou o preço. Ele sabe de algo que eu não sei?" |
-| E64 | "Imposto por fora no cardápio: pode?" |
-| E65 | "Onde está a margem que eu ganho e onde está a que eu perco?" |
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E16 | A DECISÃO | "Eu vou ter que escolher entre manter o cliente empresa e manter minha margem?" | R |
+| E17 | O QUE SABER | "O que é esse tal de crédito de imposto, na prática?" | R |
+| E18 | O QUE SABER | "A empresa que almoça aqui todo dia vai poder descontar?" ⭐ | R |
+| E19 | O SEU NÚMERO | "Quais dos meus clientes estão em risco, e quanto valem?" | R |
+| E20 | A ATITUDE | "O que eu falo pro meu cliente empresa antes que ele faça a conta?" | R |
 
-## BLOCO XIV — Nota, fisco e obrigações
-| # | A pergunta |
-|---|---|
-| E66 | "O que mudou na minha nota fiscal?" |
-| E67 | "Errei o cadastro do produto. Qual o risco?" |
-| E68 | "O fisco vai enxergar mais o meu negócio agora?" |
-| E69 | "Guardo nota por quanto tempo?" |
-| E70 | "Recebi uma notificação. O que eu faço primeiro?" |
+## BLOCO 5 · DECISÃO: preço e composição de cardápio para 2027
+**Prazo: janeiro de 2027** — depende dos blocos 2 e 4 estarem resolvidos
+*[roteiros](../roteiros/bloco-05.md)*
 
-## BLOCO XV — A transição 2029–2032
-| # | A pergunta |
-|---|---|
-| E71 | "Por que a mudança demora até 2033?" |
-| E72 | "Vou pagar ICMS e IBS ao mesmo tempo?" |
-| E73 | "Meu benefício fiscal estadual acaba quando?" |
-| E74 | "Tenho crédito de ICMS acumulado. Perco?" |
-| E75 | "Cada ano vai ser diferente até 2033?" |
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E21 | A DECISÃO | "Vou ter que remarcar o cardápio em janeiro?" | R |
+| E22 | O QUE SABER | "Vendi R$ 100 no aplicativo e recebi R$ 80. Pago imposto sobre quanto?" | R |
+| E23 | O QUE SABER | "E os 10% do garçom, o couvert e a cortesia?" | R |
+| E24 | O SEU NÚMERO | "Qual é a composição real do meu faturamento?" | R |
+| E25 | A ATITUDE | "Mexo no mix ou mexo no preço?" | R |
 
-## BLOCO XVI — Mitos
-| # | A pergunta |
-|---|---|
-| E76 | "É verdade que restaurante saiu ganhando na reforma?" |
-| E77 | "Vi que a alíquota vai ser 28%. É isso que eu vou pagar?" |
-| E78 | "Disseram que o Simples vai acabar." |
-| E79 | "Ouvi que vou pagar imposto sobre o que eu já paguei." |
-| E80 | "Mandaram eu abrir MEI pra cada funcionário." |
+## BLOCO 6 · DECISÃO: como preparar o caixa para o split payment
+**Prazo: 2027 — mas a negociação com fornecedor precisa começar antes**
+*[roteiros](../roteiros/bloco-06.md)*
 
-## BLOCO XVII — Perguntas do público
-| # | A pergunta |
-|---|---|
-| E81–E85 | Cinco perguntas vindas dos comentários e dos grupos |
-
-## BLOCO XVIII — Balanço
-| # | A pergunta |
-|---|---|
-| E86 | "O que já mudou de fato na minha operação?" |
-| E87 | "O que eu deveria ter feito e não fiz?" |
-| E88 | "O que ainda vai mudar até 2027?" |
-| E89 | "Que perguntas eu deveria estar fazendo ao meu contador?" |
-| E90 | "Os 10 números que todo dono precisa saber de cor" |
+| # | Papel | A pergunta | S |
+|---|---|---|---|
+| E26 | A DECISÃO | "Vou precisar de capital de giro extra? Quanto, e de onde?" | R |
+| E27 | O QUE SABER | "O que é esse tal de split payment?" | R |
+| E28 | O QUE SABER | "Já vale em 2027 pra venda de cartão no balcão?" | R |
+| E29 | O SEU NÚMERO | "Qual é a distância entre o que eu pago e o que eu recebo?" | R |
+| E30 | A ATITUDE | "O que eu mudo no meu caixa a partir de hoje?" | R |
 
 ---
 
-## Regras de manutenção do calendário
+# Blocos 7 a 18 — mapa das decisões
 
-1. **A pergunta manda.** Se um episódio não consegue ser escrito como pergunta que
-   o empresário faria, o tema está errado — não o roteiro.
-2. **Comentário vira episódio.** Toda pergunta recebida entra no
-   [banco](banco-de-perguntas.md) e tem prioridade sobre o mapa. Um episódio que
-   responde a um seguidor nominalmente performa acima da média.
-3. **Notícia rompe a fila.** Publicação de nova norma, prazo ou decisão relevante
-   entra no dia seguinte, empurrando o calendário. Manter atualidade é o que
-   sustenta a autoridade.
-4. **Um episódio, uma ideia.** Se o roteiro passa de 175 palavras, vire dois.
+## BLOCO 7 · DECISÃO: como tratar a operação de delivery e as plataformas
+| # | Papel | A pergunta |
+|---|---|---|
+| E31 | A DECISÃO | "Delivery próprio ou aplicativo: o que sai melhor agora?" |
+| E32 | O QUE SABER | "O aplicativo passou a recolher imposto por mim?" |
+| E33 | O QUE SABER | "Minha nota do iFood está saindo certa?" |
+| E34 | O SEU NÚMERO | "Quanto o delivery pesa no meu faturamento e na minha margem?" |
+| E35 | A ATITUDE | "O que eu cobro da plataforma e o que eu corrijo no meu sistema" |
+
+## BLOCO 8 · DECISÃO: política de compras e escolha de fornecedores
+| # | Papel | A pergunta |
+|---|---|---|
+| E36 | A DECISÃO | "Vale a pena trocar de fornecedor por causa de imposto?" |
+| E37 | O QUE SABER | "Meu fornecedor é do Simples. Quanto de crédito ele me passa?" |
+| E38 | O QUE SABER | "Compro no CEASA e do produtor. Isso gera crédito?" |
+| E39 | O SEU NÚMERO | "Quanto das minhas compras vem com imposto destacado?" |
+| E40 | A ATITUDE | "Como renegociar com fornecedor usando esse número" |
+
+## BLOCO 9 · DECISÃO: o que fazer com a operação de bebidas
+| # | Papel | A pergunta |
+|---|---|---|
+| E41 | A DECISÃO | "Meu bar tem 70% de bebida. Preciso repensar o negócio?" |
+| E42 | O QUE SABER | "O que é o Imposto Seletivo e por que ele me atinge?" |
+| E43 | O QUE SABER | "Destilado, vinho e cerveja pagam igual?" |
+| E44 | O SEU NÚMERO | "Quanto o Seletivo mexeu no meu custo de compra?" |
+| E45 | A ATITUDE | "Recompor a carta de bebidas sem perder o cliente" |
+
+## BLOCO 10 · DECISÃO: política de gorjeta e taxa de serviço
+| # | Papel | A pergunta |
+|---|---|---|
+| E46 | A DECISÃO | "Minha taxa de serviço é 20%. Preciso mudar?" |
+| E47 | O QUE SABER | "Por que 15% virou um número importante?" |
+| E48 | O QUE SABER | "A gorjeta precisa estar separada na nota?" |
+| E49 | O SEU NÚMERO | "Quanto da minha taxa de serviço está acima do limite?" |
+| E50 | A ATITUDE | "Como acertar isso com a equipe e com o sistema" |
+
+## BLOCO 11 · DECISÃO: quem cuida do quê — contador, advogado, sistema
+| # | Papel | A pergunta |
+|---|---|---|
+| E51 | A DECISÃO | "Meu contador dá conta disso sozinho?" |
+| E52 | O QUE SABER | "O que é apuração e o que é decisão de negócio" |
+| E53 | O QUE SABER | "O que meu sistema precisa entregar e não entrega" |
+| E54 | O SEU NÚMERO | "As três perguntas que testam se você está bem servido" |
+| E55 | A ATITUDE | "Como montar a conversa com quem te atende" |
+
+## BLOCO 12 · DECISÃO: o que fazer com a carteira de eventos e catering
+| # | Papel | A pergunta |
+|---|---|---|
+| E56 | A DECISÃO | "Meu cliente de evento é sempre PJ. Continuo nesse mercado?" |
+| E57 | O QUE SABER | "Buffet e festa de empresa entram no regime do setor?" |
+| E58 | O QUE SABER | "Aluguel de salão é fornecimento ou é serviço?" |
+| E59 | O SEU NÚMERO | "Quanto a operação de eventos representa e qual a margem real" |
+| E60 | A ATITUDE | "Reprecificar evento corporativo para 2027" |
+
+## BLOCO 13 · DECISÃO: estrutura societária e número de CNPJs
+| # | Papel | A pergunta |
+|---|---|---|
+| E61 | A DECISÃO | "Tenho três CNPJs pra não estourar o Simples. Continua valendo?" |
+| E62 | O QUE SABER | "O que mudou no cálculo do limite" |
+| E63 | O QUE SABER | "Separar bar de restaurante ajuda ou atrapalha?" |
+| E64 | O SEU NÚMERO | "Como está distribuído o faturamento entre seus CNPJs" |
+| E65 | A ATITUDE | "O que dá pra ajustar ainda este ano" |
+
+## BLOCO 14 · DECISÃO: como tratar pessoas e contratos de trabalho
+| # | Papel | A pergunta |
+|---|---|---|
+| E66 | A DECISÃO | "Preciso mudar como contrato e pago minha equipe?" |
+| E67 | O QUE SABER | "Refeição de funcionário é despesa ou é saída?" |
+| E68 | O QUE SABER | "Meu chef é PJ. Isso ficou mais arriscado?" |
+| E69 | O SEU NÚMERO | "Quanto sai da sua cozinha sem nota, por mês" |
+| E70 | A ATITUDE | "Registrar consumo interno sem criar burocracia" |
+
+## BLOCO 15 · DECISÃO: como se preparar para a fiscalização do novo sistema
+| # | Papel | A pergunta |
+|---|---|---|
+| E71 | A DECISÃO | "O fisco vai enxergar mais o meu negócio. O que eu arrumo primeiro?" |
+| E72 | O QUE SABER | "O que mudou na minha nota fiscal" |
+| E73 | O QUE SABER | "Qual o risco de errar o cadastro de um produto" |
+| E74 | O SEU NÚMERO | "Quantas divergências existem hoje entre o seu PDV e as suas notas" |
+| E75 | A ATITUDE | "O que guardar, por quanto tempo, e onde" |
+
+## BLOCO 16 · DECISÃO: como atravessar a transição 2029–2032
+| # | Papel | A pergunta |
+|---|---|---|
+| E76 | A DECISÃO | "Preciso planejar até 2033 ou resolvo ano a ano?" |
+| E77 | O QUE SABER | "Por que vou pagar dois impostos ao mesmo tempo" |
+| E78 | O QUE SABER | "Meu benefício fiscal estadual acaba quando?" |
+| E79 | O SEU NÚMERO | "Quanto de crédito de ICMS você tem acumulado" |
+| E80 | A ATITUDE | "O calendário de decisões até 2033, em uma página" |
+
+## BLOCO 17 · DECISÃO: no que acreditar — desmontando o que circula no setor
+| # | Papel | A pergunta |
+|---|---|---|
+| E81 | A DECISÃO | "Como eu separo informação de boato nesse assunto?" |
+| E82 | O QUE SABER | "É verdade que restaurante saiu ganhando?" |
+| E83 | O QUE SABER | "A alíquota é 28%? O Simples vai acabar?" |
+| E84 | O SEU NÚMERO | "Três perguntas que testam qualquer informação que te mandarem" |
+| E85 | A ATITUDE | "Onde conferir, sem depender de vídeo nenhum — inclusive dos meus" |
+
+## BLOCO 18 · DECISÃO: o que fazer no próximo ciclo
+| # | Papel | A pergunta |
+|---|---|---|
+| E86 | A DECISÃO | "O que ficou pra trás e ainda dá tempo de resolver?" |
+| E87 | O QUE SABER | "O que já mudou de fato na sua operação" |
+| E88 | O QUE SABER | "O que ainda vai mudar" |
+| E89 | O SEU NÚMERO | "Os dez números que todo dono precisa saber de cor" |
+| E90 | A ATITUDE | "O calendário do próximo ano, decisão por decisão" |
+
+---
+
+## Regras de manutenção
+
+1. **Um bloco, uma decisão.** Se o bloco não consegue ser nomeado como escolha que o
+   empresário precisa fazer, ele está mal formulado. Reescreva a decisão, não os
+   episódios.
+2. **Todo bloco termina em atitude.** Bloco que acaba em explicação falhou, mesmo com
+   bom desempenho de audiência.
+3. **Todo bloco tem um número da casa dele.** Decisão tomada com dado genérico não é
+   decisão — é opinião.
+4. **A pergunta manda no título.** O papel do episódio (A DECISÃO, O QUE SABER…) é
+   estrutura interna de produção. O espectador só vê a pergunta.
+5. **Comentário vira episódio.** Toda pergunta recebida entra no
+   [banco](banco-de-perguntas.md). Se ela revela uma decisão que não está mapeada, ela
+   vira bloco — não episódio solto.
+6. **Notícia rompe a fila.** Norma nova, prazo ou decisão relevante entra no dia
+   seguinte. Se criar uma decisão nova com prazo curto, ela vira o próximo bloco e
+   empurra o calendário.
