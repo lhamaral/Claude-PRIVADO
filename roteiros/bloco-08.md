@@ -102,7 +102,7 @@
 
 ## E38 · O QUE SABER — "Compro no CEASA e do produtor. Isso gera crédito?"
 
-**Base técnica:** ⚠️ §2 · cesta básica (alíquota zero) e não cumulatividade parcial
+**Base técnica:** ✅ §2 · cesta básica (alíquota zero) — confirmado agosto/2026
 **159 palavras · ~57s**
 
 ### FALADO

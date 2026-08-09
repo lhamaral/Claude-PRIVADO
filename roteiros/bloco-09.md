@@ -100,8 +100,15 @@
 
 ## E43 · O QUE SABER — "Destilado, vinho e cerveja pagam igual?"
 
-**Base técnica:** ⚠️ §6 · alíquotas do Seletivo por tipo de bebida (em movimento)
-**161 palavras · ~57s**
+**Base técnica:** 🔶 §6 · modelo do Seletivo em disputa — mecanismo confirmado, valores indefinidos
+**160 palavras · ~57s**
+
+> 🔶 **Correção de base técnica (agosto/2026).** O Seletivo em bebida alcoólica não
+> funciona com uma alíquota percentual simples por tipo — o modelo aprovado combina
+> **duas cobranças**: uma específica (valor fixo em reais, conforme o teor de álcool
+> puro na bebida) e uma ad valorem (percentual sobre o preço). Os valores exatos de
+> cada uma ainda não foram fixados — regulamentação prometida até fim de 2026. Falado
+> abaixo ajustado pra descrever o mecanismo sem prometer número que ainda não existe.
 
 ### FALADO
 
@@ -109,41 +116,40 @@
 "Aqui vem a diferença que mexe no menu."
 
 **[3–8s]**
-"Cerveja, vinho e destilado não pagam Seletivo igual. Paga diferente."
+"Cerveja, vinho e destilado não pagam Seletivo do mesmo jeito. E o motivo não é só o tipo — é o teor alcoólico."
 
 **[8–20s]**
-"A lei cobra Seletivo com alíquota diferentes por tipo de bebida. A ideia é: quanto mais alcoólico, quanto mais prejudicial, maior o imposto. Não é proporcional ao que você vende — é sobre a natureza da bebida."
+"O Seletivo em bebida combina duas cobranças: uma parte fixa, em reais, que sobe conforme a quantidade de álcool puro na bebida — e uma parte percentual, sobre o preço. Quanto mais forte a bebida, maior a parte fixa."
 
 **[20–45s]**
-"Cerveja paga uma alíquota. Vinho paga outra. Destilado paga outra, maior. A diferença é real: um destilado que custava cem reais pode estar chegando cento e vinte. Uma cerveja que custava trinta pode estar trinta e dois. Não é a mesma conta. Isso mexe direto no preço que você vai colocar no cardápio — porque o impacto não é igual em tudo."
+"Na prática: destilado tem mais álcool por dose que cerveja, então a parte fixa pesa mais nele. Os valores exatos — quanto é a parte fixa, quanto é o percentual — ainda não foram publicados. Regulamentação sai até o fim do ano. O que já dá pra afirmar: o impacto não vai ser igual entre categorias, porque o mecanismo em si já é desenhado pra pesar mais em bebida mais forte."
 
 **[45–55s]**
-"Próxima nota que chegar do distribuidor: vê se aparece a alíquota de cada bebida — porque diferentes bebidas podem ter aparecido com diferentes aumentos."
+"Próxima nota que chegar do distribuidor: vê se já aparece Seletivo destacado, e se aparece diferente por tipo de bebida."
 
 **[55–60s]**
 "Reforma no Balcão. Um minuto por dia."
 
 ### TEXTOS NA TELA
-`CERVEJA ≠ VINHO ≠ DESTILADO` → `CADA UM, ALÍQUOTA DIFERENTE DO SELETIVO` →
-`IMPACTO DIFERENTE NO CUSTO` → `PRÓXIMA NOTA: CONFIRA O AUMENTO DE CADA UM`
+`SELETIVO = PARTE FIXA + PARTE PERCENTUAL` → `PARTE FIXA SOBE COM O TEOR ALCOÓLICO` →
+`VALORES EXATOS: AINDA NÃO PUBLICADOS` → `PRÓXIMA NOTA: JÁ APARECE DESTACADO?`
 
 ### LEGENDA
-> O Seletivo não é uma alíquota única para toda bebida alcoólica — variam por tipo.
+> O Seletivo em bebida alcoólica não é uma alíquota percentual única por categoria — é a combinação de duas cobranças.
 >
-> Cerveja paga uma alíquota. Vinho paga outra (geralmente menor porque é visto como menos nocivo). Destilado paga outra, maior. As diferenças podem ser significativas — não é só 5% de diferença, às vezes é 10%, 15%.
+> **Parte específica:** valor fixo em reais, que sobe conforme a quantidade de álcool puro na bebida.
+> **Parte ad valorem:** percentual sobre o preço do produto.
 >
-> Um destilado que custava R$ 100 pode ter chegado em R$ 115. Uma cerveja que custava R$ 30 pode ter chegado em R$ 31. Não é a mesma conta.
+> Como destilado tem mais álcool por dose que cerveja, a parte fixa pesa proporcionalmente mais nele. Mas os valores exatos de cada parte ainda não foram fixados — a regulamentação está prometida para o fim de 2026, pra valer a partir de janeiro de 2027.
 >
-> Isso impacta direto o preço que você vai colocar no menu — porque não faz sentido aumentar tudo igual se o custo não subiu igual.
->
-> Próxima nota do distribuidor: confira se aparece desagregado, ou chame o distribuidor pra detalhar.
+> O que já dá pra afirmar com segurança: o impacto não será uniforme entre categorias — o próprio desenho do imposto pesa mais em bebida mais forte.
 >
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] **`[VALIDAR]` bloqueante:** confirme alíquotas exatas por tipo de bebida antes de gravar
-- [ ] Números são ilustrativos
-- [ ] Sem indicar "cerveja ficou melhor negócio que destilado" (questão delicada)
+- [ ] **`[VALIDAR]` bloqueante:** valores da parte fixa e da parte ad valorem ainda não publicados — reconfirme perto da gravação
+- [ ] Não afirmar percentual específico por tipo de bebida — mecanismo é o que está confirmado, não o valor
+- [ ] Sem indicar "cerveja ficou melhor negócio que destilado" (questão delicada, e ainda incerta)
 
 ---
 

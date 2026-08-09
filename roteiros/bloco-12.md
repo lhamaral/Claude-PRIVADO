@@ -105,8 +105,8 @@
 
 ## E58 · O QUE SABER — "Como eu sei em qual das duas rotas eu estou — e dá pra escolher?"
 
-**Base técnica:** ⚠️ Critério de classificação · segregação obrigatória · art. 398
-**163 palavras · ~58s**
+**Base técnica:** ⚠️ Critério de classificação (CNAE 5620) · segregação obrigatória · art. 398
+**165 palavras · ~59s**
 
 ### FALADO
 
@@ -114,37 +114,42 @@
 "Você tem evento corporativo. Como sabe se está na rota de fornecimento ou na rota de catering sob contrato?"
 
 **[3–8s]**
-"Olha pro contrato e pro código que você usa pra faturar."
+"Olha pro CNAE que você usa pra faturar. Existe código específico pra cada rota."
 
 **[8–20s]**
-"Se você fatura o evento como uma venda de restaurante — nota de fornecimento de alimentação, sem contrato formal, sem código de catering — você está na rota um, regime específico. Se você tem contrato de prestação de serviço de catering, com código próprio de classificação, faturando refeição coletiva — você está na rota dois, fora do regime, com crédito fluindo pro cliente."
+"Serviço de bufê pra evento e recepção tem código próprio — 5620-1/02. Fornecimento de alimento preparado pra empresa, tipo cantina ou refeição coletiva, tem outro — 5620-1/01. Se seu evento está faturado sob um desses dois, com contrato de prestação de serviço, você está na rota de catering — fora do regime específico, gerando crédito pro cliente. Se você fatura como restaurante vendendo pra fora — mesmo CNAE do salão —, está na rota um."
 
 **[20–45s · A CONTA]**
-"Isso não é escolha livre de marcar uma caixinha — depende de como sua operação realmente funciona: tem contrato formal? Tem recorrência? Tem código de serviço próprio? Mas dentro do que sua operação já é, você pode organizar formalização pra refletir a rota que faz mais sentido pro seu negócio. E se você faz as duas coisas — vende avulso no salão e também atende contrato corporativo —, a lei exige escrituração segregada. Sem segregar, você se expõe à sanção do art. 398."
+"Isso não é escolha livre de marcar uma caixinha — depende de como sua operação realmente funciona: tem contrato formal? Tem CNAE de catering ativo? Mas se você já faz catering de fato e ainda fatura tudo pelo CNAE de restaurante, você pode estar deixando de gerar crédito que seu cliente já teria direito. E se você faz as duas coisas — vende avulso no salão e atende contrato corporativo —, a lei exige escrituração segregada. Sem segregar, expõe-se à sanção do art. 398."
 
 **[45–55s]**
-"Ação: pega seu maior contrato de evento corporativo — tem documento formal de catering, ou é nota avulsa de venda? Essa resposta classifica você."
+"Ação: confere no seu CNPJ — você tem CNAE 5620-1/01 ou 5620-1/02 cadastrado? Se atende evento corporativo e não tem, é a primeira pergunta pro contador."
 
 **[55–60s]**
 "Reforma no Balcão. Um minuto por dia."
 
 ### TEXTOS NA TELA
-`ROTA DEPENDE DE: CONTRATO + CÓDIGO DE FATURAMENTO` → `NÃO É ESCOLHA LIVRE, É FORMALIZAÇÃO`
-→ `FAZ AS DUAS ROTAS? SEGREGAÇÃO OBRIGATÓRIA` → `SEM SEGREGAR: RISCO DE SANÇÃO (ART. 398)`
+`5620-1/02: BUFÊ PRA EVENTO E RECEPÇÃO` → `5620-1/01: ALIMENTO PREPARADO PRA EMPRESA`
+→ `TEM ESSE CNAE CADASTRADO?` → `FAZ AS DUAS ROTAS? SEGREGAÇÃO OBRIGATÓRIA (ART. 398)`
 
 ### LEGENDA
-> A classificação depende de como sua operação está formalizada — contrato de catering com código próprio de classificação, ou nota avulsa de fornecimento de alimentação.
+> A classificação passa pelo CNAE que você usa pra faturar o evento.
 >
-> Não é escolha livre marcando uma caixinha — depende da realidade da operação (existe contrato? Existe recorrência? Existe código de serviço próprio?). Mas dentro do que sua operação já faz, você pode organizar a formalização pra refletir a rota que serve sua estratégia.
+> **5620-1/02** — serviço de alimentação para eventos e recepções (buffet).
+> **5620-1/01** — fornecimento de alimentos preparados preponderantemente para empresas (catering, refeição coletiva).
 >
-> Se você atende as duas modalidades — venda avulsa e catering sob contrato — a lei exige **escrituração segregada** entre elas. Sem segregar, você se expõe à sanção do art. 398.
+> Se seu evento corporativo está faturado sob um desses códigos, com contrato de prestação de serviço, você está na rota de catering — fora do regime específico, gerando crédito integral pro cliente PJ.
 >
-> Ação: confira seu maior contrato de evento. Tem documento formal de catering ou é nota avulsa? Essa resposta te classifica hoje.
+> Não é escolha livre — depende da realidade da operação. Mas se você já faz catering de fato e fatura tudo pelo CNAE de restaurante, pode estar deixando de gerar crédito que seu cliente já teria direito.
+>
+> Atende as duas modalidades? A lei exige **escrituração segregada**. Sem segregar, expõe-se à sanção do art. 398.
+>
+> Ação: confere seu CNPJ — tem 5620-1/01 ou 5620-1/02 cadastrado?
 >
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] **`[VALIDAR]`:** confirmar critérios exatos de enquadramento em NBS/CNAE de catering antes de gravar
+- [ ] **`[VALIDAR]`:** confirmar se o enquadramento em CNAE 5620-1/01 ou /02 é, por si só, suficiente para excluir do regime específico, ou se depende também de contrato formal e recorrência — checar com tributarista antes de gravar
 - [ ] Deixar claro que reclassificação não é "escolha livre" — depende de estrutura real da operação
 - [ ] Reforçar risco de sanção do art. 398 sem segregação
 

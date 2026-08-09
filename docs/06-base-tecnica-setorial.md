@@ -37,10 +37,13 @@ compensação/dispensa vinculado ao cumprimento das obrigações acessórias. O 
 é o ajuste dos sistemas, não a arrecadação. Os valores já aparecem nos documentos
 fiscais.
 
-⚠️ `[VALIDAR]` **Regime especial de ICMS** para bares, restaurantes e similares
-(o percentual reduzido sobre a receita, conforme legislação estadual) — há indicação
-de manutenção **até 31/12/2026**. Confirme na legislação do seu estado, porque isso
-varia e é a pergunta mais concreta que o empresário tem hoje.
+✅ **Regime especial de ICMS** para bares, restaurantes e similares — a manutenção
+**até 31/12/2026** está confirmada na base (Convênio ICMS CONFAZ nº 125/2011 e
+prorrogações estaduais). **Mas o percentual em si genuinamente varia por estado e
+muda no meio do próprio prazo** — exemplo real: São Paulo prorrogou até 31/12/2026
+pelo Decreto 69.314, mas reajustou a alíquota de 3,2% para 4% sobre a receita bruta
+mensal, com efeito retroativo a 01/01/2025. **Mantenha "confira na legislação do seu
+estado" no roteiro — não é insegurança nossa, é variação estadual real e documentada.**
 
 ### O calendário
 
@@ -58,11 +61,18 @@ varia e é a pergunta mais concreta que o empresário tem hoje.
 ### O benefício
 
 ✅ **Redução de 40%** nas alíquotas de IBS e CBS sobre o fornecimento de alimentação
-(art. 275).
+(art. 275). Confirmado em agosto/2026 contra o texto literal: "As alíquotas do IBS
+e da CBS relativas às operações de que trata este Capítulo ficam reduzidas em 40%
+(quarenta por cento)." Os 40% são fixos em lei — não é estimativa.
 
-⚠️ `[VALIDAR]` Com a alíquota de referência estimada em torno de 28%, a carga efetiva
-do setor ficaria em **aproximadamente 16,8%**. Trate sempre como *estimativa* em
-vídeo — a alíquota de referência ainda será fixada e o número circula com variações.
+⚠️ `[VALIDAR]` O que é estimativa é a **alíquota de referência de base** sobre a qual
+os 40% incidem. O Comitê Gestor (CGIBS) estimou oficialmente **27,91%** — acima do
+teto legal de **26,5%** fixado pela própria LC 214/2025, o que aciona mecanismo de
+trava: o Executivo deve propor projeto de lei ao Congresso pra reduzir o percentual
+ao limite. Com 27,91%, a carga efetiva do setor fica em ~16,75%; com o teto de 26,5%,
+fica em ~15,9%. Trate sempre a carga efetiva como estimativa em vídeo ("carga em
+torno de 16-17%, dependendo de como a alíquota de referência se fixar") — o intervalo
+é mais preciso que um número único.
 
 ### O que entra no benefício
 
@@ -84,7 +94,8 @@ A intenção declarada da restrição é impedir que bares e restaurantes operem
 ### O que fica de fora
 
 ✅ **Bebidas alcoólicas** estão excluídas do regime reduzido — permanecem na alíquota
-cheia (⚠️ `[VALIDAR]` estimada em ~28%) e ainda são alcançadas pelo **Imposto
+cheia (⚠️ `[VALIDAR]` alíquota de referência oficial estimada em 27,91%, acima do
+teto legal de 26,5% — ver nota acima) e ainda são alcançadas pelo **Imposto
 Seletivo**, pela lógica de extrafiscalidade.
 
 **Consequência prática que vale um episódio inteiro:** um bar cuja receita é
@@ -98,15 +109,25 @@ alimentação e bebidas de bares, restaurantes e lanchonetes.
 
 Esta é a informação mais importante de toda a série, e a menos divulgada.
 
-⚠️ `[VALIDAR]` Há também restrição ao aproveitamento de crédito pelo próprio
-estabelecimento sobre suas aquisições — a chamada não cumulatividade parcial.
-Confirme a extensão exata: o que exatamente pode e o que não pode ser creditado
-pelo restaurante nas compras (insumos, energia, aluguel, embalagem, gás). Este é
-o ponto que mais varia entre as análises publicadas, e o que você **precisa** ter
-firmado antes de gravar a Semana 3.
+✅ **Resolvido em agosto/2026:** o crédito do **próprio restaurante** sobre suas
+compras (insumos, energia, aluguel, embalagem, gás, serviços terceirizados) é
+**pleno, não restrito**. O silêncio da LC 214/2025 quanto ao creditamento do
+estabelecimento — diferente do silêncio expresso do art. 276, que veda o crédito
+apenas ao **adquirente** — deve ser lido como permissão de creditamento normal.
+Múltiplas fontes convergem: "tudo que foi tributado por IBS/CBS gera crédito —
+energia, aluguel, embalagem, marketing, equipamento" para o restaurante como
+comprador. **A vedação de crédito do art. 276 é só de mão única: atinge quem compra
+do restaurante, nunca o restaurante comprando de terceiros.** Isso resolve o que era
+o ponto mais incerto da base técnica — pode afirmar em vídeo sem ressalva.
 
-⚠️ `[VALIDAR]` Insumos da **cesta básica** (alíquota zero) não geram crédito na
-cadeia — o que atinge diretamente a compra de alimentos do restaurante.
+✅ Insumos da **cesta básica** (alíquota zero) **não geram crédito** para quem
+compra — mas não por restrição legal ao restaurante, e sim porque não há imposto
+destacado na compra pra creditar (0% de 0 é 0). A lei garante manutenção de crédito
+das etapas *anteriores* da cadeia (o produtor/CEASA mantém crédito dos próprios
+insumos, art. 52), o que evita quebra de cadeia pra eles — mas não gera nada de novo
+pro restaurante que compra a zero. Prática confirmada, sem contradição com o item
+acima: o restaurante tem crédito pleno em tudo que **comprou com imposto destacado**;
+em cesta básica, simplesmente não há imposto destacado pra creditar.
 
 #### Por que isso reorganiza o mercado
 
@@ -147,14 +168,15 @@ que dependam de fronteira de caso concreto. Ver `roteiros/bloco-12.md`.
 
 O que **não integra** a base do restaurante:
 
-✅ ⚠️ `[VALIDAR]` **Gorjeta**, limitada a **15%** do valor total do fornecimento
-(indicação de dispositivo: art. 399, §1º, I). Acima de 15%, o excedente é tributado
-integralmente. **Condição essencial: a gorjeta precisa estar segregada no documento
-fiscal.** Casas de alta gastronomia, casas noturnas e estabelecimentos em região
-turística frequentemente praticam 18% a 25% — para elas, isso é dinheiro.
+✅ **Gorjeta**, limitada a **15%** do valor total do fornecimento — confirmado,
+art. 399, §1º, I. Acima de 15%, o excedente é tributado integralmente.
+**Condição essencial: a gorjeta precisa estar segregada no documento fiscal.**
+Casas de alta gastronomia, casas noturnas e estabelecimentos em região turística
+frequentemente praticam 18% a 25% — para elas, isso é dinheiro.
 
-✅ ⚠️ `[VALIDAR]` **Valor da intermediação de plataformas digitais** (a taxa do
-aplicativo) e **valor do serviço de entrega**, quando não repassados ao restaurante.
+✅ **Valor da intermediação de plataformas digitais** (a taxa do aplicativo) e
+**valor do serviço de entrega**, quando não repassados ao restaurante — mesmo
+dispositivo (art. 399, §1º) da gorjeta trata da segregação desses valores.
 
 Exemplo: venda de R$ 100 no aplicativo, com 20% retidos pela plataforma → a base
 de cálculo do restaurante é **R$ 80**.
@@ -169,9 +191,13 @@ rende episódio e rende trabalho.
 ## 4. Simples Nacional — a decisão de setembro de 2026
 
 ✅ Empresas do Simples poderão recolher IBS e CBS pelo **regime regular** a partir
-de 2027. ⚠️ `[VALIDAR]` **A primeira opção deve ser feita em setembro de 2026** —
-prazos definidos pelo CGSN. Confirme a data-limite exata e o meio da opção; é o
-item mais urgente e mais concreto de toda a série.
+de 2027. ✅ **Confirmado agosto/2026 (notícia oficial CGSN/Receita Federal):** o
+prazo de opção é **de 1º a 30 de setembro de 2026**, pelo portal do Simples
+Nacional. Detalhe adicional relevante para o roteiro: a opção pelo regime regular
+feita em setembro **vale só para o período de janeiro a junho de 2027** — é preciso
+reconfirmar depois se a segunda janela (2º semestre/2027 em diante) terá prazo e
+procedimento próprios. Vale mencionar isso no E05 (A ATITUDE) do Bloco 1: a decisão
+de setembro não é "de uma vez pra sempre", é o primeiro semestre de teste.
 
 ### As duas rotas
 
@@ -189,14 +215,27 @@ item mais urgente e mais concreto de toda a série.
 - Vende **a PJ que precisa de crédito** → o regime regular passa a merecer conta.
 
 **Atenção ao cruzamento com o art. 276:** se a vedação de crédito ao adquirente de
-alimentação se aplica de todo modo, o ganho do regime regular para um restaurante
-que atende PJ fica limitado. ⚠️ `[VALIDAR]` — esse cruzamento é sofisticado, é
-exatamente o tipo de análise que justifica contratar um tributarista, e você
-**precisa** tê-lo firmado antes de gravar o E03 e o E15.
+alimentação se aplica de todo modo (venda avulsa pra PJ, rota um do Bloco 12), o
+ganho do regime regular para esse restaurante fica limitado — o cliente PJ não
+aproveita nada de qualquer forma. Já para o catering sob contrato (rota dois — ver
+seção 2, exceção do art. 273 §2º), o crédito flui normalmente e o regime regular
+volta a fazer diferença real pro cliente.
 
-⚠️ `[VALIDAR]` Levantamento preliminar do Sebrae indica que cerca de **35%** das
-micro e pequenas empresas de alimentação podem precisar reavaliar seu regime
-tributário até 2027. Confirme a fonte antes de citar o número em vídeo.
+⚠️ `[VALIDAR]` **Dado de mercado, não confirmado em fonte primária oficial:** análises
+de mercado apontam um **ponto de equilíbrio em torno de 70% de despesas creditáveis
+sobre a receita** como referência prática — abaixo disso, Simples tende a compensar;
+acima, regime regular tende a compensar. Trate como estimativa de mercado, não como
+regra fixa, se for citar em vídeo. Esse cruzamento continua sofisticado o bastante
+pra justificar "chama um tributarista" — mantenha isso no E03 e no E15.
+
+⚪ **Não confirmado em fonte primária.** A estatística "35% das micro e pequenas
+empresas de alimentação vão precisar reavaliar regime até 2027", atribuída ao
+Sebrae, não foi localizada em nenhuma publicação Sebrae específica nas buscas de
+agosto/2026 — os resultados que a citam parecem ecoar a mesma frase sem apontar
+pra pesquisa original. **Não usar com atribuição ao Sebrae em vídeo.** Se quiser
+uma estimativa de magnitude, use formulação sem fonte específica ("estimativas de
+mercado indicam parcela relevante") ou busque a pesquisa original antes de citar
+um número.
 
 ---
 
@@ -207,8 +246,12 @@ documento fiscal calcula o tributo, a informação vai ao meio de pagamento, e a
 instituição que liquida segrega os valores — o fisco recebe o tributo e o
 estabelecimento recebe o líquido.
 
-✅ Estreia em **2027**, ⚠️ `[VALIDAR]` em caráter **opcional** e restrito a
-operações **entre empresas**, alcançando primeiro **Pix, boleto e transferências**.
+✅ **Confirmado agosto/2026.** Estreia em **2027** como "Fase 1 – B2B Opcional":
+facultativo para quem inicia a transação, restrito a operações **entre empresas**
+(regime regular), e limitado a **seis arranjos**: boleto, Pix Dinâmico, Pix
+Automático, Pix Estático, TED e TEF. Dinheiro em espécie fica fora — vale o
+recolhimento normal pelo adquirente. Base regulatória: Decreto nº 12.955/2026
+(CBS) e Resolução CGIBS nº 6/2026 (IBS).
 
 **O que isso significa para o balcão:** a venda no cartão ao consumidor final
 **não** é atingida logo de saída. Isso é uma boa notícia e precisa ser dita com
@@ -224,10 +267,18 @@ mudança estrutural de fluxo de caixa — mesmo que escalonada.
 ## 6. Imposto Seletivo
 
 ✅ Incide sobre bens prejudiciais à saúde e ao meio ambiente, alcançando **bebidas
-alcoólicas** e **bebidas açucaradas**. Entra em vigor em **2027**.
+alcoólicas** e **bebidas açucaradas**. Entra em vigor em **1º de janeiro de 2027**,
+confirmado. Incidência na etapa de produção/importação, não no varejo — confirmado.
 
-⚠️ `[VALIDAR]` Alíquotas, base e forma de incidência (etapa de produção/importação,
-não no varejo). Confirme antes de qualquer conta em vídeo.
+🔶 **Mecanismo confirmado, valores em disputa.** Em bebida alcoólica, o Seletivo
+combina **duas cobranças**: uma **específica** (valor fixo em reais, proporcional ao
+teor de álcool puro na bebida) e uma **ad valorem** (percentual sobre o preço). Não
+é uma alíquota percentual única por categoria de bebida. Os valores exatos de cada
+parte **ainda não foram fixados** em agosto/2026 — regulamentação prometida até o
+fim do ano. Ao gravar episódio com conta numérica sobre o Seletivo, não afirme
+percentual específico por tipo de bebida — descreva o mecanismo (fixo por teor +
+percentual sobre preço) sem prometer valor que ainda não existe. Ver correção
+aplicada em `roteiros/bloco-09.md`, episódio E43.
 
 **Ângulo prático para o setor:** o restaurante não recolhe o IS, mas **paga** — ele
 vem embutido no custo de compra do distribuidor. O episódio útil é: "pegue a próxima
@@ -237,31 +288,33 @@ nota do distribuidor e compare o custo da caixa de cerveja com a de hoje".
 
 ## 7. Pontos que precisam ser firmados antes de gravar
 
-Prioridade máxima — cada um destes sustenta um ou mais episódios já roteirizados:
+Rodada de validação de agosto/2026 (duas sessões). Estado atual de cada ponto:
 
-| # | Ponto | Episódios afetados |
-|---|---|---|
-| 1 | Extensão exata da trava de crédito **nas compras do restaurante** | E11, E12, E15 |
-| 2 | ✅ Data-limite da opção de 2026: **1 a 30 de setembro**, confirmado (CGSN) | E03 |
-| 3 | Alcance de "preparados e manipulados no próprio local" | E09, E10 |
-| 4 | ✅ O regime dos arts. 273–276 é **obrigatório**, confirmado ("ficam sujeitas") | E15 |
-| 5 | Manutenção do regime especial de ICMS estadual até 31/12/2026 (varia por UF) | E04 |
-| 6 | ✅ Gorjeta: limite de 15% e exigência de segregação, confirmado (art. 399 §1º I) | E18 |
-| 7 | Alíquota de referência: estimativa oficial do CGIBS é **27,91%**, acima do teto legal de 26,5% — trava do Executivo acionada | Todos com conta |
-| 8 | ✅ Catering sob contrato (art. 273, §2º) exclui do regime específico e libera crédito ao PJ — confirmado, roteiro corrigido | E56-E60 |
-| 9 | Critérios de enquadramento em código próprio de NBS/CNAE para catering | E58 |
-| 10 | Modelo de alíquota do Imposto Seletivo em bebida (específica + ad valorem) ainda indefinido | E43 |
+| # | Ponto | Status | Episódios afetados |
+|---|---|---|---|
+| 1 | Extensão da trava de crédito **nas compras do restaurante** | ✅ Resolvido — crédito pleno, não restrito. Vedação do art. 276 é só de mão única (ao adquirente) | E11, E12, E15 |
+| 2 | Data-limite da opção de 2026 | ✅ Confirmado — 1 a 30 de setembro (CGSN). Detalhe novo: opção de setembro vale só pra jan-jun/2027 | E03 |
+| 3 | Alcance de "preparados e manipulados no próprio local" | 🔶 Ainda em disputa — decreto não define. Exemplo útil: padaria que assa próprio pão = regime específico; restaurante que compra pão pronto = fora | E09, E10 |
+| 4 | Regime dos arts. 273–276 é obrigatório ou opcional | ✅ Confirmado — obrigatório ("ficam sujeitas") | E15 |
+| 5 | Manutenção do regime especial de ICMS estadual até 31/12/2026 | ✅ Confirmado o prazo geral (Convênio CONFAZ 125/2011); percentual **genuinamente varia por estado e muda no meio do prazo** (ex.: SP foi de 3,2% pra 4%) — manter "confira no seu estado" | E04 |
+| 6 | Limite e segregação da gorjeta | ✅ Confirmado — 15%, art. 399 §1º I | E18 |
+| 7 | Alíquota de referência para as contas | 🟡 Ajustado — estimativa oficial do CGIBS é **27,91%**, acima do teto legal de 26,5% (trava do Executivo acionada). Os **40% de desconto são fixos em lei** (art. 275), não estimativa — só a base sobre a qual incidem é que varia | Todos com conta |
+| 8 | Catering sob contrato (art. 273, §2º) | ✅ Confirmado — exclui do regime específico e libera crédito ao PJ. Bloco 12 reescrito | E56-E60 |
+| 9 | Critérios de enquadramento em CNAE de catering | 🟡 Parcialmente resolvido — códigos concretos identificados (5620-1/01, 5620-1/02). Falta confirmar se o CNAE sozinho basta ou se depende também de contrato/recorrência | E58 |
+| 10 | Modelo de alíquota do Imposto Seletivo em bebida | 🔶 Mecanismo confirmado (específica por teor + ad valorem sobre preço); valores exatos indefinidos até fim de 2026. E43 reescrito para não prometer número | E43 |
+| 11 | Split payment — meios e fase de entrada | ✅ Confirmado — Fase 1/2027, B2B opcional, 6 arranjos (boleto, 3 variantes de Pix, TED, TEF); dinheiro fica fora | Bloco 6, Bloco 7 |
+| 12 | Cruzamento Simples vs. regime regular para quem atende PJ | ✅ Estrutura confirmada (rota 1 vs. rota 2 do Bloco 12 mudam a resposta). 🟡 Dado numérico do ponto de equilíbrio (~70% de despesas creditáveis) é estimativa de mercado, não fonte oficial | E03, E15 |
+| 13 | Estatística Sebrae de 35% das MPEs de alimentação | ⚪ Não confirmada em fonte primária — removida a atribuição, não usar em vídeo | — (só base técnica) |
 
-**Itens 2, 4, 6 e 8 foram confirmados em agosto/2026** contra fontes primárias
-(texto da LC 214/2025 e notícia oficial do CGSN/Receita Federal). O item 4
-resolve o ponto que antes era "o mais delicado": como o regime é obrigatório
-(não opcional), o E15 já estava correto em tom — "não dá para sair, dá para
-organizar a operação" — e não precisou de reescrita.
+**Itens resolvidos (1, 2, 4, 5, 6, 8, 11) podem ir ao ar sem ressalva de incerteza**
+— checados contra texto legal, decreto ou notícia oficial em agosto/2026.
 
-**O item 8 exigiu reescrita completa do Bloco 12** — a versão anterior tratava
-catering corporativo como incluído no regime específico com cliente PJ sempre
-sem crédito. É o oposto: catering sob contrato paga alíquota cheia mas libera
-crédito ao cliente PJ. Ver nota de produção em `roteiros/bloco-12.md`.
+**Itens ainda em aberto (3, 9, 10)** continuam genuinamente incertos — mantenha o
+tom de "ainda não está pacificado" nos episódios correspondentes, não force certeza.
+
+**Itens ajustados sem virar bloqueantes (7, 12)** — a mecânica central está firme,
+só o número fino de referência ainda oscila; use intervalo ou "estimativa de
+mercado" em vez de número único onde fizer sentido.
 
 ---
 
