@@ -8,7 +8,7 @@
 
 ## E66 · A DECISÃO — "Preciso mudar como contrato e pago minha equipe?"
 
-**Base técnica:** ✅ Art. 297 · consumo interno · obrigação de documento
+**Base técnica:** ✅ regra de consumo interno como receita, confirmada em múltiplas fontes · ⚠️ `[VALIDAR]` número exato do artigo — "art. 297" não confirmado nesta rodada
 **157 palavras · ~56s**
 
 ### FALADO
@@ -55,7 +55,7 @@
 
 ## E67 · O QUE SABER — "Refeição de funcionário é despesa ou é saída?"
 
-**Base técnica:** ✅ Art. 297 · consumo interno
+**Base técnica:** ✅ regra confirmada · ⚠️ `[VALIDAR]` número exato do artigo
 **159 palavras · ~57s**
 
 ### FALADO

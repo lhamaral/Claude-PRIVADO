@@ -166,16 +166,16 @@ Coluna `S`: `—` pendente · `R` roteirizado · `G` gravado · `P` publicado.
 | E60 | A ATITUDE | "Reclassificar e reprecificar catering corporativo para 2027" | R |
 
 ## BLOCO 13 · DECISÃO: estrutura societária e número de CNPJs
-**Prazo: setembro/2026 — ajustes precisam sair antes de ano-novo**
+**Prazo: setembro/2026 — documentar ou reorganizar antes da Receita cruzar os dados**
 *[roteiros](../roteiros/bloco-13.md)*
 
 | # | Papel | A pergunta | S |
 |---|---|---|---|
 | E61 | A DECISÃO | "Tenho três CNPJs pra não estourar o Simples. Continua valendo?" | R |
-| E62 | O QUE SABER | "O que mudou no cálculo do limite" | R |
-| E63 | O QUE SABER | "Separar bar de restaurante ajuda ou atrapalha?" | R |
-| E64 | O SEU NÚMERO | "Como está distribuído o faturamento entre seus CNPJs" | R |
-| E65 | A ATITUDE | "O que dá pra ajustar ainda este ano" | R |
+| E62 | O QUE SABER | "O que a Receita enxerga como CNPJs 'ligados'" | R |
+| E63 | O QUE SABER | "Separar bar de restaurante ainda faz sentido?" | R |
+| E64 | O SEU NÚMERO | "Qual é o grau de vínculo real entre os seus CNPJs" | R |
+| E65 | A ATITUDE | "O que fazer ainda em 2026 — documentar ou reorganizar" | R |
 
 ## BLOCO 14 · DECISÃO: como tratar pessoas e contratos de trabalho
 **Prazo: janeiro de 2027 — conversa com advogado trabalhista começa agora**

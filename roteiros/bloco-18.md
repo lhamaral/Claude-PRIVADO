@@ -173,7 +173,7 @@
 "Os dez. De cor."
 
 **[8–20s]**
-"Um: alíquota reduzida estimada em 16,8% (40% desconto sobre 28% de referência). Dois: limite de gorjeta não tributável — 15%. Três: crédito é bloqueado ao cliente PJ de comida. Quatro: Imposto Seletivo em bebida alcoólica (extra, acumulado). Cinco: split payment começa B2B em 2027, não no balcão. Seis: ICMS reduz 20% ao ano de 2029 em diante. Sete: seu faturamento (número) para tomar decisão. Oito: seu percentual de PJ na receita. Nove: seu crédito acumulado de ICMS. Dez: número de pessoas na equipe (pra calcular consumo interno)."
+"Um: alíquota reduzida estimada em torno de 17% — 40% de desconto, fixo em lei, sobre uma alíquota de referência que o Comitê Gestor estima em 27,91%, ainda em ajuste. Dois: limite de gorjeta não tributável — 15%. Três: crédito é bloqueado ao cliente PJ de comida, exceto em catering sob contrato. Quatro: Imposto Seletivo em bebida alcoólica (extra, acumulado). Cinco: split payment começa B2B em 2027, não no balcão. Seis: ICMS reduz 20% ao ano de 2029 em diante. Sete: seu faturamento (número) para tomar decisão. Oito: seu percentual de PJ na receita. Nove: seu crédito acumulado de ICMS. Dez: número de pessoas na equipe (pra calcular consumo interno)."
 
 **[45–55s]**
 "Dez números — não decoreba sem contexto. Mas com contexto, são os dez que sustentam todas as decisões. Se você conhece os dez, você sabe de que lado está de cada decisão. Se não conhece, está chutando."
@@ -182,17 +182,17 @@
 "Reforma no Balcão. Um minuto por dia."
 
 ### TEXTOS NA TELA
-`1. 16,8% (ALÍQUOTA REDUZIDA) · 2. 15% (LIMITE GORJETA)` →
-`3. CRÉDITO BLOQUEADO PJ · 4. SELETIVO EM BEBIDA` →
+`1. ~17% (40% FIXO SOBRE ALÍQUOTA ESTIMADA) · 2. 15% (LIMITE GORJETA)` →
+`3. CRÉDITO BLOQUEADO PJ, EXCETO CATERING SOB CONTRATO · 4. SELETIVO EM BEBIDA` →
 `5. SPLIT B2B · 6. ICMS -20% ANUAL` →
 `7. FATURAMENTO PRÓPRIO · 8. % PJ · 9. CRÉDITO ICMS · 10. EQUIPE`
 
 ### LEGENDA
 > Dez números que sustentam a série:
 >
-> 1. **16,8%** — alíquota reduzida (40% sobre 28%)
+> 1. **~17%** — alíquota reduzida. Os 40% de desconto são fixos em lei; incidem sobre uma alíquota de referência ainda estimada (27,91%, segundo o Comitê Gestor).
 > 2. **15%** — limite de gorjeta não tributável
-> 3. **Crédito bloqueado** — ao cliente PJ de comida
+> 3. **Crédito bloqueado** — ao cliente PJ de comida na venda avulsa; **exceto** no catering sob contrato, que gera crédito integral
 > 4. **Seletivo** — imposto extra em bebida alcoólica
 > 5. **Split 2027** — B2B apenas, não balcão
 > 6. **ICMS -20%/ano** — de 2029 em diante
@@ -206,6 +206,7 @@
 > *[ressalva padrão]*
 
 ### CHECAGEM
+- [x] Alíquota e exceção de catering atualizadas para refletir correções de agosto/2026
 - [ ] Dez números cobrem blocos diferentes
 - [ ] Números 7-10 são específicos de cada casa
 - [ ] Sem parecer que é "prova" — é reflexão

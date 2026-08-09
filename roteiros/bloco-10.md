@@ -8,7 +8,7 @@
 
 ## E46 · A DECISÃO — "Minha taxa de serviço é 20%. Preciso mudar?"
 
-**Base técnica:** ⚠️ Art. 399, §1º, I · limite de 15% para gorjeta na base de cálculo
+**Base técnica:** ✅ Art. 399, §1º, I · limite de 15% para gorjeta na base de cálculo — confirmado agosto/2026
 **156 palavras · ~56s**
 
 ### FALADO
@@ -104,7 +104,7 @@
 
 ## E48 · O QUE SABER — "A gorjeta precisa estar separada na nota?"
 
-**Base técnica:** ⚠️ Art. 399, §1º, I · segregação de valores · obrigação operacional
+**Base técnica:** ✅ Art. 399, §1º, I · segregação de valores exigida em lei — confirmado agosto/2026 · 🟡 se o PDV já faz isso automaticamente é operacional, ainda em aberto
 **160 palavras · ~57s**
 
 ### FALADO

@@ -311,16 +311,25 @@ Rodada de validação de agosto/2026 (duas sessões). Estado atual de cada ponto
 | 11 | Split payment — meios e fase de entrada | ✅ Confirmado — Fase 1/2027, B2B opcional, 6 arranjos (boleto, 3 variantes de Pix, TED, TEF); dinheiro fica fora | Bloco 6, Bloco 7 |
 | 12 | Cruzamento Simples vs. regime regular para quem atende PJ | ✅ Estrutura confirmada (rota 1 vs. rota 2 do Bloco 12 mudam a resposta). 🟡 Dado numérico do ponto de equilíbrio (~70% de despesas creditáveis) é estimativa de mercado, não fonte oficial | E03, E15 |
 | 13 | Estatística Sebrae de 35% das MPEs de alimentação | ⚪ Não confirmada em fonte primária — removida a atribuição, não usar em vídeo | — (só base técnica) |
+| 14 | Limite do Simples para múltiplos CNPJs (Bloco 13) | 🔴 **Erro corrigido** — o roteiro original afirmava limite único consolidado de ~R$ 6 milhões. Errado: o limite continua **R$ 4,8 milhões**, nominalmente inalterado. O que mudou (Resolução CGSN nº 183/2025) é o cruzamento automatizado de dados que **soma faturamento de CNPJs sob controle comum** contra esse mesmo limite único — não contra um limite maior. Bloco 13 inteiro reescrito | E61-E65 |
+| 15 | Duração da opção de setembro/2026 pelo regime regular (Bloco 1) | 🔴 **Erro corrigido** — E01 afirmava que a opção "vale o ano de 2027 inteiro". Errado: vale só para janeiro-junho/2027 (Resolução CGSN nº 186/2026), com nova janela em março/2027 e cancelamento possível até 30/11/2026. E01 e E05 reescritos | E01, E05 |
+| 16 | Referência ao "Art. 297" para consumo interno (Bloco 14) | ⚪ Não localizado em fonte primária durante esta rodada — a regra em si (consumo interno é receita tributável) está bem estabelecida em múltiplas fontes secundárias, mas o número exato do artigo não foi confirmado. Confirme o dispositivo antes de exibir a referência em tela | E66-E70 |
 
 **Itens resolvidos (1, 2, 4, 5, 6, 8, 11) podem ir ao ar sem ressalva de incerteza**
 — checados contra texto legal, decreto ou notícia oficial em agosto/2026.
 
-**Itens ainda em aberto (3, 9, 10)** continuam genuinamente incertos — mantenha o
+**Itens ainda em aberto (3, 9, 10, 16)** continuam genuinamente incertos — mantenha o
 tom de "ainda não está pacificado" nos episódios correspondentes, não force certeza.
 
 **Itens ajustados sem virar bloqueantes (7, 12)** — a mecânica central está firme,
 só o número fino de referência ainda oscila; use intervalo ou "estimativa de
 mercado" em vez de número único onde fizer sentido.
+
+**Itens 14 e 15 foram erros factuais reais, não apenas incertezas** — ambos geravam
+afirmação incorreta indo ao ar (limite errado, duração errada). Achados na leitura
+completa dos blocos 1-6 e 7-18 desta rodada, não em checagem pontual de tópico —
+reforça o valor de revisar cada bloco por inteiro, não só os pontos já marcados
+`[VALIDAR]`.
 
 ---
 

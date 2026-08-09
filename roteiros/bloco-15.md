@@ -105,7 +105,7 @@
 
 ## E73 · O QUE SABER — "Qual o risco de errar o cadastro de um produto"
 
-**Base técnica:** ⚠️ Classificação incorreta e seus efeitos
+**Base técnica:** ✅ Classificação incorreta e seus efeitos · prazo de 5 anos confirmado (art. 173/174 CTN, regra geral)
 **160 palavras · ~57s**
 
 ### FALADO
@@ -146,7 +146,7 @@
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] **`[VALIDAR]`:** tempo de prescrição de arrecadação
+- [x] Tempo de prescrição/decadência — confirmado 5 anos, arts. 173/174 do CTN (regra geral, não específica da reforma)
 - [ ] Risco é cumulativo, não isolado
 - [ ] Sem parecer punitivo — é realidade
 
@@ -211,7 +211,7 @@
 
 ## E75 · A ATITUDE — "O que guardar, por quanto tempo, e onde" ⭐
 
-**Base técnica:** ✅ Retenção de documentos · prazo de prescrição
+**Base técnica:** ✅ Retenção de documentos · prazo de 5 anos confirmado (art. 173/174 CTN)
 **164 palavras · ~59s**
 
 ### FALADO
@@ -262,7 +262,7 @@
 
 ## Notas de produção
 
-**E73 é bloqueante.** Tempo de prescrição de arrecadação pode variar (cinco anos é base, mas há prorrogações). Confirme antes de gravar — o número de anos pode afetar gravidade do episódio.
+**E73 confirmado (agosto/2026).** Prazo de cinco anos para decadência (art. 173 CTN) e prescrição (art. 174 CTN) são regra geral consolidada, não específica da reforma — pode ir ao ar sem ressalva.
 
 **E74 pode gerar insegurança.** "Divergência entre PDV e nota" é coisa que existe em quase todo restaurante (PDV congela, nota atrasa, diferenças pequenas). Tone é "auditar pra arrumar", não "você está errado".
 
