@@ -50,8 +50,8 @@ estado" no roteiro — não é insegurança nossa, é variação estadual real e
 | Ano | O que acontece |
 |---|---|
 | 2026 | Ano-teste: CBS 0,9% + IBS 0,1% |
-| **2027** | CBS integral; extinção de PIS/Cofins; IS entra em vigor; split payment estreia |
-| 2029–2032 | Transição gradual: ICMS/ISS reduzem, IBS sobe |
+| **2027** | CBS a 99,9% da alíquota cheia (residual de 0,1 p.p. em 2027-2028); extinção de PIS/Cofins; IS entra em vigor; split payment estreia. IBS segue em 0,1% até 2028 |
+| 2029–2032 | ✅ Confirmado (art. 128 ADCT, agosto/2026): **redução de 10 pontos percentuais de ICMS/ISS por ano** — 90% em 2029, 80% em 2030, 70% em 2031, 60% em 2032 do valor original — enquanto IBS sobe na mesma proporção |
 | 2033 | Regime pleno; ICMS e ISS extintos |
 
 ---
@@ -314,16 +314,26 @@ Rodada de validação de agosto/2026 (duas sessões). Estado atual de cada ponto
 | 14 | Limite do Simples para múltiplos CNPJs (Bloco 13) | 🔴 **Erro corrigido** — o roteiro original afirmava limite único consolidado de ~R$ 6 milhões. Errado: o limite continua **R$ 4,8 milhões**, nominalmente inalterado. O que mudou (Resolução CGSN nº 183/2025) é o cruzamento automatizado de dados que **soma faturamento de CNPJs sob controle comum** contra esse mesmo limite único — não contra um limite maior. Bloco 13 inteiro reescrito | E61-E65 |
 | 15 | Duração da opção de setembro/2026 pelo regime regular (Bloco 1) | 🔴 **Erro corrigido** — E01 afirmava que a opção "vale o ano de 2027 inteiro". Errado: vale só para janeiro-junho/2027 (Resolução CGSN nº 186/2026), com nova janela em março/2027 e cancelamento possível até 30/11/2026. E01 e E05 reescritos | E01, E05 |
 | 16 | Referência ao "Art. 297" para consumo interno (Bloco 14) | ⚪ Não localizado em fonte primária durante esta rodada — a regra em si (consumo interno é receita tributável) está bem estabelecida em múltiplas fontes secundárias, mas o número exato do artigo não foi confirmado. Confirme o dispositivo antes de exibir a referência em tela | E66-E70 |
+| 17 | Cronograma de redução de ICMS/ISS 2029-2032 (Bloco 16) | 🔴 **Erro corrigido** — roteiro original usava "20%, depois 40%, depois 60%" de redução, com conta numérica baseada nisso (2029: 14,4%; 2031: 7,2%, partindo de 18%). Errado: o ritmo correto, confirmado três vezes contra o art. 128 do ADCT, é **10 pontos percentuais por ano** — 90%/80%/70%/60% do valor original em 2029/2030/2031/2032, extinção total só em 2033. E77 reescrito com a conta corrigida (16,2% em 2029, 10,8% em 2032, partindo de 18%); E76 e E89 (Bloco 18) ajustados para consistência | E76, E77, E89 |
+| 18 | CBS "integral" em 2027 (calendário geral) | 🟡 Detalhe fino, não corrigido nos roteiros (impacto desprezível) — CBS entra em 2027 a **99,9%** da alíquota cheia, com resíduo de 0,1 p.p. que só zera em 2029; IBS permanece em 0,1% até 2028, só começa a subir de fato em 2029. Nenhum roteiro afirma "100% exato", então não gerou erro, mas vale ter em mente ao gravar exemplos numéricos de 2027-2028 | — |
 
-**Itens resolvidos (1, 2, 4, 5, 6, 8, 11) podem ir ao ar sem ressalva de incerteza**
+**Itens resolvidos (1, 2, 4, 5, 6, 8, 11, 17) podem ir ao ar sem ressalva de incerteza**
 — checados contra texto legal, decreto ou notícia oficial em agosto/2026.
 
 **Itens ainda em aberto (3, 9, 10, 16)** continuam genuinamente incertos — mantenha o
 tom de "ainda não está pacificado" nos episódios correspondentes, não force certeza.
 
-**Itens ajustados sem virar bloqueantes (7, 12)** — a mecânica central está firme,
+**Itens ajustados sem virar bloqueantes (7, 12, 18)** — a mecânica central está firme,
 só o número fino de referência ainda oscila; use intervalo ou "estimativa de
 mercado" em vez de número único onde fizer sentido.
+
+**Terceira rodada de validação (foco em números e prazos) confirmou também, sem
+necessidade de correção:** datas do Decreto nº 12.955/2026 (29/04/2026) e da
+Resolução CGIBS nº 6/2026 (30/04/2026); códigos CNAE 5620-1/01 e 5620-1/02
+(confirmados em nove fontes independentes); os 40% de desconto do art. 275 como
+valor fixo em lei. Três erros factuais reais foram encontrados ao todo nas três
+rodadas (Bloco 1, Bloco 13, Bloco 16) — todos em contas numéricas específicas que
+pareciam sólidas, não nos pontos que já estavam marcados como incertos.
 
 **Itens 14 e 15 foram erros factuais reais, não apenas incertezas** — ambos geravam
 afirmação incorreta indo ao ar (limite errado, duração errada). Achados na leitura

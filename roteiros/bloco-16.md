@@ -23,7 +23,7 @@
 "2027 é o ano de regime novo — IBS/CBS entram, Simples fica, ICMS e ISS continuam. De 2029 até 2032, ICMS e ISS vão reduzindo gradualmente enquanto IBS sobe. É transição longa — você paga dois sistemas ao mesmo tempo, com redução progressiva de um e aumento de outro."
 
 **[20–45s · A CONTA]**
-"2027: IBS 0,9% + CBS 0,9% substituem ICMS/ISS em alíquota reduzida. 2029-2032: ICMS reduz de X até X/2, IBS sobe até alíquota cheia. Resultado: anos de 2029-2032 são os mais caros — você paga de ambos. 2033: ICMS some, sobra só IBS. Se você planeja ano a ano, 2029 te pega desprevenido."
+"2027: CBS entra valendo, PIS e Cofins acabam. 2029 a 2032: ICMS e ISS caem dez pontos percentuais por ano — de 90% do valor original até 60% — enquanto o IBS sobe na mesma proporção pra cobrir o espaço. 2033: ICMS e ISS somem de vez, sobra só IBS na alíquota cheia. Se você planeja ano a ano, 2029 te pega desprevenido."
 
 **[45–55s · O QUE FAZER]**
 "Levanta: seus benefícios estaduais — quando acabam? Qual é seu crédito de ICMS acumulado hoje? Isso muda sua estratégia."
@@ -57,8 +57,8 @@
 
 ## E77 · O QUE SABER — "Por que vou pagar dois impostos ao mesmo tempo"
 
-**Base técnica:** ✅ Cronograma de redução de ICMS e aumento de IBS
-**160 palavras · ~57s**
+**Base técnica:** ✅ Cronograma de redução de ICMS e aumento de IBS — art. 128 do ADCT, confirmado agosto/2026
+**162 palavras · ~58s**
 
 ### FALADO
 
@@ -66,41 +66,42 @@
 "De 2029 até 2032, você vai pagar imposto duas vezes na mesma venda. Por quê?"
 
 **[3–8s]**
-"Porque o sistema antigo reduz enquanto o novo sobe."
+"Porque o sistema antigo reduz aos poucos enquanto o novo sobe aos poucos."
 
 **[8–20s]**
-"Governo não quer choque de arrecadação — quer transição suave. Então resolve assim: a partir de 2029, estados começam a reduzir ICMS gradualmente — 20%, depois 40%, depois 60%. No mesmo tempo, União começa a aumentar IBS gradualmente — entra em 0,1%, sobe pra alíquota completa. Resultado: enquanto ICMS cai, IBS sobe — você paga a diferença dos dois."
+"Governo não quer choque de arrecadação — quer transição suave. A lei fixou o ritmo: dez por cento de redução do ICMS por ano, quatro anos seguidos. Dois mil e vinte e nove, o ICMS cai pra noventa por cento do que era. Dois mil e trinta, pra oitenta. Dois mil e trinta e um, setenta. Dois mil e trinta e dois, sessenta. No mesmo ritmo, o IBS vai crescendo pra cobrir o espaço que abriu."
 
 **[20–45s]**
-"Exemplo: você pagava 18% de ICMS. Em 2029, paga 14,4% de ICMS mais 1% de IBS provisório. 2031, paga 7,2% de ICMS mais 15% de IBS. Dois impostos, duas alíquotas, somadas no mesmo período. Em 2033, ICMS acaba, IBS fica no completo — mas durante a transição, você convive com os dois."
+"Exemplo: você pagava dezoito por cento de ICMS. Em 2029, paga dezesseis vírgula dois — noventa por cento do valor antigo — mais uma fatia de IBS que começa pequena. Em 2032, paga dez vírgula oito de ICMS — sessenta por cento do valor antigo — mais uma fatia de IBS bem maior. Dois impostos, todo ano, em proporção diferente. Em 2033, o ICMS acaba de vez, e sobra só o IBS na alíquota cheia."
 
 **[45–55s]**
-"Não é duplicação de carga — é transição suave onde você sente o "vácuo" enquanto um reduz e o outro não subiu o suficiente."
+"Não é duplicação de carga — é transição de dez por cento ao ano, prevista em lei, pra ninguém levar susto de uma vez."
 
 **[55–60s]**
 "Reforma no Balcão. Um minuto por dia."
 
 ### TEXTOS NA TELA
-`ICMS REDUZ GRADUALMENTE` → `IBS SOBE GRADUALMENTE` →
-`2029-2032: VOCÊ PAGA AMBOS` → `NÃO É DUPLICAÇÃO, É TRANSIÇÃO`
+`REDUÇÃO DE 10% AO ANO, 2029-2032` → `2029: 90% · 2030: 80% · 2031: 70% · 2032: 60%` →
+`2033: ICMS ACABA, SÓ RESTA IBS` → `NÃO É DUPLICAÇÃO, É TRANSIÇÃO PROGRAMADA`
 
 ### LEGENDA
-> Transição de 2029-2032 funciona assim:
+> Transição de 2029-2032 segue ritmo fixado em lei (art. 128 do ADCT): redução de 10 pontos percentuais por ano, quatro anos seguidos.
 >
-> Estados reduzem ICMS gradualmente (redução de 20% ao ano até 2032).
-> União aumenta IBS gradualmente (sobe de alíquota provisória até completa).
+> **2029:** ICMS a 90% do valor original (redução de 10%).
+> **2030:** ICMS a 80% (redução acumulada de 20%).
+> **2031:** ICMS a 70% (redução acumulada de 30%).
+> **2032:** ICMS a 60% (redução acumulada de 40%).
+> **2033:** ICMS extinto, só resta IBS na alíquota cheia.
 >
-> Resultado: enquanto ICMS cai, IBS não subiu o suficiente pra compensar. Você paga de ambos simultaneamente.
+> No mesmo ritmo, o IBS cresce pra ocupar o espaço aberto. Exemplo: você pagava 18% de ICMS. Em 2029, paga 16,2% de ICMS (90%) mais uma fatia de IBS que começa pequena. Em 2032, paga 10,8% de ICMS (60%) mais uma fatia de IBS bem maior.
 >
-> Exemplo: 2028 você paga 18% ICMS. 2029 paga 14,4% ICMS + 1% IBS. 2031 paga 7,2% ICMS + 15% IBS. Dois impostos somados — não é duplicação de carga, é diferença não compensada durante transição.
->
-> 2033: ICMS desaparece, IBS fica em alíquota cheia — transição completa.
+> Não é duplicação de carga — é o ritmo de transição previsto em lei.
 >
 > *[ressalva padrão]*
 
 ### CHECAGEM
+- [x] Cronograma de redução confirmado — 10%/20%/30%/40% acumulado, art. 128 ADCT (agosto/2026)
 - [ ] Deixar claro que não é aumento líquido de carga
-- [ ] Exemplo deve mostrar "vácuo" da transição
 - [ ] Sem parecer que reforma é injusta
 
 ---

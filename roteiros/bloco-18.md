@@ -184,7 +184,7 @@
 ### TEXTOS NA TELA
 `1. ~17% (40% FIXO SOBRE ALÍQUOTA ESTIMADA) · 2. 15% (LIMITE GORJETA)` →
 `3. CRÉDITO BLOQUEADO PJ, EXCETO CATERING SOB CONTRATO · 4. SELETIVO EM BEBIDA` →
-`5. SPLIT B2B · 6. ICMS -20% ANUAL` →
+`5. SPLIT B2B · 6. ICMS -10 PONTOS/ANO ATÉ 2032` →
 `7. FATURAMENTO PRÓPRIO · 8. % PJ · 9. CRÉDITO ICMS · 10. EQUIPE`
 
 ### LEGENDA
@@ -195,7 +195,7 @@
 > 3. **Crédito bloqueado** — ao cliente PJ de comida na venda avulsa; **exceto** no catering sob contrato, que gera crédito integral
 > 4. **Seletivo** — imposto extra em bebida alcoólica
 > 5. **Split 2027** — B2B apenas, não balcão
-> 6. **ICMS -20%/ano** — de 2029 em diante
+> 6. **ICMS -10 pontos/ano** — de 2029 a 2032 (90% → 60% do valor original, art. 128 ADCT), extinção total em 2033
 > 7. **Faturamento** — seu número específico
 > 8. **% PJ** — percentual de cliente empresa na receita
 > 9. **Crédito ICMS** — seu saldo acumulado
