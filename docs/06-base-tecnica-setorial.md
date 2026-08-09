@@ -110,14 +110,36 @@ cadeia — o que atinge diretamente a compra de alimentos do restaurante.
 
 #### Por que isso reorganiza o mercado
 
-O comprador **PJ** — empresa que mantém convênio de almoço, contrata buffet, fatura
-refeição corporativa — deixa de aproveitar crédito ao comprar do restaurante. Ele
-passa a ter incentivo econômico para migrar a um fornecedor que gere crédito cheio.
+O comprador **PJ** — empresa que mantém convênio de almoço, fatura refeição
+corporativa como venda avulsa de restaurante — deixa de aproveitar crédito ao
+comprar do restaurante. Ele passa a ter incentivo econômico para migrar a um
+fornecedor que gere crédito cheio.
 
 Quem vende ao **consumidor final** não sente: pessoa física não aproveita crédito
 de qualquer forma, e o desconto de 40% é ganho líquido.
 
 **A linha divisória de todo o setor é essa: quem senta na mesa.**
+
+#### ✅ Exceção confirmada: catering sob contrato (art. 273, §2º)
+
+Validado em agosto/2026 contra o texto legal — **catering e refeição coletiva
+corporativa faturados sob contrato, com código próprio de classificação (NBS/CNAE),
+são excluídos do regime específico dos arts. 273-276.** Consequência dupla:
+
+- Paga **alíquota cheia** (não os 16,8% do regime reduzido).
+- A trava de crédito do art. 276 **não se aplica** — o cliente PJ aproveita
+  **crédito integral**, porque essa modalidade está fora do regime específico
+  que o art. 276 restringe.
+
+É o **oposto** do restaurante que atende PJ no varejo: lá, alíquota baixa e
+crédito bloqueado; no catering sob contrato, alíquota cheia e crédito liberado.
+Quem opera as duas modalidades — venda avulsa no salão e catering sob contrato —
+precisa de **escrituração segregada**, sob pena da sanção do art. 398.
+
+⚠️ `[VALIDAR]` Os critérios exatos de enquadramento em código próprio de
+NBS/CNAE (o que configura "sob contrato" na prática — recorrência mínima?
+exclusividade?) ainda merecem confirmação específica antes de gravar episódios
+que dependam de fronteira de caso concreto. Ver `roteiros/bloco-12.md`.
 
 ---
 
@@ -220,17 +242,26 @@ Prioridade máxima — cada um destes sustenta um ou mais episódios já roteiri
 | # | Ponto | Episódios afetados |
 |---|---|---|
 | 1 | Extensão exata da trava de crédito **nas compras do restaurante** | E11, E12, E15 |
-| 2 | Data-limite e procedimento da opção de setembro/2026 | E03 |
+| 2 | ✅ Data-limite da opção de 2026: **1 a 30 de setembro**, confirmado (CGSN) | E03 |
 | 3 | Alcance de "preparados e manipulados no próprio local" | E09, E10 |
-| 4 | O regime dos arts. 273–276 é **obrigatório** ou comporta opção | E15 |
-| 5 | Manutenção do regime especial de ICMS estadual até 31/12/2026 | E04 |
-| 6 | Redação e limite exatos da regra da gorjeta | E18 |
-| 7 | Alíquota de referência vigente para as contas | Todos com conta |
+| 4 | ✅ O regime dos arts. 273–276 é **obrigatório**, confirmado ("ficam sujeitas") | E15 |
+| 5 | Manutenção do regime especial de ICMS estadual até 31/12/2026 (varia por UF) | E04 |
+| 6 | ✅ Gorjeta: limite de 15% e exigência de segregação, confirmado (art. 399 §1º I) | E18 |
+| 7 | Alíquota de referência: estimativa oficial do CGIBS é **27,91%**, acima do teto legal de 26,5% — trava do Executivo acionada | Todos com conta |
+| 8 | ✅ Catering sob contrato (art. 273, §2º) exclui do regime específico e libera crédito ao PJ — confirmado, roteiro corrigido | E56-E60 |
+| 9 | Critérios de enquadramento em código próprio de NBS/CNAE para catering | E58 |
+| 10 | Modelo de alíquota do Imposto Seletivo em bebida (específica + ad valorem) ainda indefinido | E43 |
 
-**O item 4 é o mais delicado.** O E15 pergunta "vale a pena sair do regime dos 40%?".
-Se o regime for obrigatório para quem se enquadra, a resposta muda de "vale a pena
-sair" para "não dá para sair — dá para organizar a operação", e o roteiro precisa
-ser reescrito. Confirme antes.
+**Itens 2, 4, 6 e 8 foram confirmados em agosto/2026** contra fontes primárias
+(texto da LC 214/2025 e notícia oficial do CGSN/Receita Federal). O item 4
+resolve o ponto que antes era "o mais delicado": como o regime é obrigatório
+(não opcional), o E15 já estava correto em tom — "não dá para sair, dá para
+organizar a operação" — e não precisou de reescrita.
+
+**O item 8 exigiu reescrita completa do Bloco 12** — a versão anterior tratava
+catering corporativo como incluído no regime específico com cliente PJ sempre
+sem crédito. É o oposto: catering sob contrato paga alíquota cheia mas libera
+crédito ao cliente PJ. Ver nota de produção em `roteiros/bloco-12.md`.
 
 ---
 

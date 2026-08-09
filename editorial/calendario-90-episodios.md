@@ -159,11 +159,11 @@ Coluna `S`: `—` pendente · `R` roteirizado · `G` gravado · `P` publicado.
 
 | # | Papel | A pergunta | S |
 |---|---|---|---|
-| E56 | A DECISÃO | "Meu cliente de evento é sempre PJ. Continuo nesse mercado?" | R |
+| E56 | A DECISÃO | "Meu cliente de evento é sempre PJ. Isso é problema ou oportunidade agora?" | R |
 | E57 | O QUE SABER | "Buffet e festa de empresa entram no regime do setor?" | R |
-| E58 | O QUE SABER | "Aluguel de salão é fornecimento ou é serviço?" | R |
-| E59 | O SEU NÚMERO | "Quanto a operação de eventos representa e qual a margem real" | R |
-| E60 | A ATITUDE | "Reprecificar evento corporativo para 2027" | R |
+| E58 | O QUE SABER | "Como eu sei em qual das duas rotas eu estou — e dá pra escolher?" | R |
+| E59 | O SEU NÚMERO | "Quanto cada rota representa e qual gera mais valor pro seu cliente" | R |
+| E60 | A ATITUDE | "Reclassificar e reprecificar catering corporativo para 2027" | R |
 
 ## BLOCO 13 · DECISÃO: estrutura societária e número de CNPJs
 **Prazo: setembro/2026 — ajustes precisam sair antes de ano-novo**
