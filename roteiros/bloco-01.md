@@ -7,22 +7,26 @@ data marcada agora, por isso abre a série.
 escolha, entende as duas rotas, tem na mão o número que decide (percentual de
 faturamento com CNPJ) e sabe o que fazer até o prazo.
 
-> ⚠️ **Bloqueante antes de gravar:** confirme no calendário do CGSN a data-limite exata
-> e o procedimento da opção. Se o prazo já tiver passado quando o bloco for ao ar, o
-> bloco inteiro precisa ser refeito — não publique desatualizado.
+> ✅ **Confirmado em agosto/2026 (Resolução CGSN nº 186/2026).** Prazo de opção: **1º a
+> 30 de setembro de 2026**, pelo portal do Simples Nacional, com efeitos a partir de
+> 1º de janeiro de 2027. Detalhe que muda o roteiro: **a opção de setembro vale só para
+> janeiro a junho de 2027** — há nova janela em **março/2027** para decidir o segundo
+> semestre. A opção pode ser cancelada de forma irretratável até **30 de novembro de
+> 2026**. Episódios ajustados abaixo para não tratar a decisão como definitiva pro ano
+> inteiro.
 
 ---
 
 ## E01 · A DECISÃO — "Meu contador falou que eu preciso decidir alguma coisa até setembro."
 
-**Base técnica:** §4 · ⚠️ `[VALIDAR]` data-limite
-**167 palavras · ~60s**
+**Base técnica:** ✅ §4 — Resolução CGSN nº 186/2026, confirmado agosto/2026
+**166 palavras · ~59s**
 
 ### FALADO
 
 **[0–3s · A PERGUNTA]**
-"Se você está no Simples, tem uma decisão pra tomar este mês. E ela vale o ano de 2027
-inteiro."
+"Se você está no Simples, tem uma decisão pra tomar este mês. E ela vale o primeiro
+semestre de 2027."
 
 **[3–8s · A RESPOSTA]**
 "Você vai poder escolher recolher os impostos novos por fora do Simples. Tem prazo, e
@@ -35,10 +39,12 @@ pra quem você vende."
 
 **[20–45s · A CONTA]**
 "Olha o tamanho do que está em jogo. São dois caminhos possíveis, e eles produzem
-resultados diferentes pro seu caixa e pro seu cliente durante todo o ano de 2027. Uma
+resultados diferentes pro seu caixa e pro seu cliente de janeiro a junho de 2027. Uma
 escolha feita no automático, ou feita sem olhar o seu faturamento, pode custar caro por
-doze meses seguidos — sem chance de corrigir no meio do caminho. E o pior cenário não é
-escolher errado. É deixar o prazo passar e ficar com a opção que caiu no seu colo."
+seis meses seguidos. A boa notícia: você pode cancelar a opção até 30 de novembro se
+mudar de ideia, e tem uma segunda chance em março, pro segundo semestre. Mas o pior
+cenário continua sendo o mesmo: deixar o prazo de setembro passar e ficar com a opção
+que caiu no seu colo, sem ter decidido nada."
 
 **[45–55s · O QUE FAZER]**
 "Hoje: liga pro seu contador e faz uma pergunta só — 'a gente já olhou a opção pelo
@@ -50,12 +56,18 @@ reunião sabendo o que perguntar."
 "Reforma no Balcão. Um minuto por dia."
 
 ### TEXTOS NA TELA
-`VOCÊ TEM UMA DECISÃO` → `PRAZO: SETEMBRO` → `VALE 2027 INTEIRO` →
-`NÃO É DECISÃO DO CONTADOR. É SUA.` → `LIGUE HOJE`
+`VOCÊ TEM UMA DECISÃO` → `PRAZO: SETEMBRO` → `VALE JAN-JUN/2027` →
+`CANCELÁVEL ATÉ 30/11 · 2ª CHANCE EM MARÇO` → `LIGUE HOJE`
 
 ### LEGENDA
 > Empresa do Simples poderá recolher IBS e CBS pelo regime regular a partir de 2027 — e
 > a opção tem prazo.
+>
+> Detalhe importante: a opção feita em setembro vale só para **janeiro a junho de 2027**.
+> Há uma nova janela em **março/2027** para decidir o segundo semestre, e a opção pode
+> ser **cancelada de forma irretratável até 30 de novembro de 2026** se você mudar de
+> ideia. Não é uma escolha de uma vez pra sempre — mas o prazo de setembro pra entrar
+> continua sendo o que importa agora.
 >
 > É importante entender de quem é essa decisão: o contador executa, mas a escolha depende
 > do perfil de cliente do estabelecimento, e isso é informação de negócio.
@@ -68,7 +80,7 @@ reunião sabendo o que perguntar."
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] **`[VALIDAR]` bloqueante:** data-limite e procedimento da opção
+- [x] Data-limite e procedimento da opção — confirmado (Resolução CGSN 186/2026)
 - [ ] Não atribuir falha ao contador — o roteiro divide papéis, não desqualifica
 - [ ] Checklist de compliance rodado
 
@@ -126,19 +138,26 @@ dia."
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] `[VALIDAR]` alíquotas do ano-teste
+- [x] Alíquotas do ano-teste (0,9% CBS + 0,1% IBS) — confirmado, consta desde o início da regulamentação
 - [ ] O episódio precisa **conectar** com a decisão do bloco, não virar aula de contexto
 
 ---
 
 ## E03 · O QUE SABER — "Qual a diferença entre pagar dentro da guia única e pagar por fora?"
 
-**Base técnica:** §4 · ⚠️ `[VALIDAR]` cruzamento com o art. 276
+**Base técnica:** §4 · ⚠️ `[VALIDAR]` cruzamento com o art. 276 — parcialmente esclarecido
 **165 palavras · ~59s**
 
-> ⚠️ **Bloqueante.** Confirme como a vedação de crédito ao adquirente de alimentação
-> (art. 276) afeta o ganho do regime regular para um restaurante. Se a vedação se
-> aplicar de todo modo, o benefício da rota 2 é bem menor — e o roteiro muda.
+> ⚠️ **Bloqueante, mas com informação nova (agosto/2026).** Validação em outra frente da
+> série (ver `roteiros/bloco-12.md`) confirmou que o **art. 276 é estrutural ao regime
+> específico dos arts. 273-276** — bloqueia crédito na venda avulsa de alimentação
+> **independentemente de o restaurante estar no DAS ou no regime regular**. Isso levanta
+> uma dúvida sobre a afirmação deste episódio de que "por fora, o crédito é cheio" — pode
+> ser que, pra venda avulsa (não catering sob contrato), o crédito ao cliente PJ continue
+> zerado nas duas rotas, e o que muda com o regime regular seja só o crédito das
+> **próprias compras** do restaurante (esse sim, plenamente liberado no regime regular —
+> item já confirmado). **Precisa de confirmação específica com tributarista antes de
+> gravar** — a diferença muda o que a rota 2 realmente entrega pro cliente PJ.
 
 ### FALADO
 
@@ -263,8 +282,8 @@ reunião. Sem esse número, qualquer conversa sobre regime é chute — inclusiv
 
 ## E05 · A ATITUDE — "Decidi. E agora, o que eu faço até o prazo?"
 
-**Base técnica:** §4 · ⚠️ `[VALIDAR]` procedimento da opção
-**163 palavras · ~58s**
+**Base técnica:** ✅ §4 — Resolução CGSN nº 186/2026, confirmado agosto/2026
+**166 palavras · ~59s**
 
 ### FALADO
 
@@ -280,42 +299,44 @@ percentual de faturamento pra CNPJ, qual rota faz sentido pra minha casa?'. Perg
 com número tem resposta. Pergunta sem número tem opinião."
 
 **[20–45s]**
-"Dois: pergunta a ele qual é a data-limite exata e como a opção é formalizada. Anota a
-data no seu calendário, com alarme, três dias antes. Prazo perdido não volta. Três: se
-o seu faturamento pra empresa for relevante, avisa seus principais clientes que você
-está revendo isso — isso te dá informação sobre o que eles próprios estão planejando,
-e essa informação vale muito. Quatro: guarda tudo num lugar só. A conversa de setembro
-vai se repetir todo ano."
+"Dois: anota duas datas, não uma. Trinta de setembro é o prazo pra entrar. Trinta de
+novembro é o prazo pra desistir, se mudar de ideia — a opção pode ser cancelada até lá.
+Isso tira um pouco da pressão: você decide agora, mas tem dois meses pra revisar. Três:
+se o seu faturamento pra empresa for relevante, avisa seus principais clientes que você
+está revendo isso — isso te dá informação sobre o que eles próprios estão planejando.
+Quatro: guarda tudo num lugar só, porque em março tem outra janela — pra decidir o
+segundo semestre de 2027."
 
 **[45–55s]**
-"E a atitude que fecha o bloco: essa decisão não é um formulário. É a primeira vez que
-o seu perfil de cliente entra numa escolha tributária. A partir de agora, ele vai
-entrar em todas."
+"E a atitude que fecha o bloco: essa decisão não é um formulário, e não é definitiva.
+É a primeira vez que o seu perfil de cliente entra numa escolha tributária. A partir
+de agora, ele vai entrar em todas, duas vezes por ano."
 
 **[55–60s]**
 "Amanhã começa um bloco novo. Reforma no Balcão. Um minuto por dia."
 
 ### TEXTOS NA TELA
-`1. LEVE O NÚMERO POR ESCRITO` → `2. ANOTE A DATA-LIMITE + ALARME` →
-`3. AVISE SEUS CLIENTES PJ` → `4. GUARDE TUDO NUM LUGAR SÓ`
+`1. LEVE O NÚMERO POR ESCRITO` → `2. DUAS DATAS: 30/09 ENTRAR · 30/11 DESISTIR` →
+`3. AVISE SEUS CLIENTES PJ` → `4. GUARDE TUDO — MARÇO TEM NOVA JANELA`
 
 ### LEGENDA
 > Quatro passos até o prazo, nenhum deles caro:
 >
 > 1. **Leve o número por escrito** ao contador, com a pergunta certa: com este
 >    percentual de faturamento para CNPJ, qual rota faz sentido?
-> 2. **Confirme a data-limite e como a opção é formalizada.** Alarme no calendário,
->    três dias antes.
+> 2. **Anote duas datas.** 30 de setembro é o prazo para entrar. 30 de novembro é o
+>    prazo para desistir — a opção pode ser cancelada de forma irretratável até lá.
 > 3. **Avise seus principais clientes PJ** que está revendo o tema — você descobre o que
 >    eles estão planejando.
-> 4. **Guarde tudo num lugar só.** Essa conversa se repete todo ano.
+> 4. **Guarde tudo num lugar só.** Em março de 2027 há nova janela, para decidir o
+>    segundo semestre.
 >
 > A mudança de fundo: pela primeira vez, o seu perfil de cliente entra numa decisão
-> tributária. Daqui em diante, ele entra em todas.
+> tributária. Daqui em diante, ele entra em todas — duas vezes por ano.
 >
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] **`[VALIDAR]` bloqueante:** procedimento e data da opção
+- [x] Procedimento e datas da opção — confirmado (Resolução CGSN 186/2026: 30/09 entrar, 30/11 desistir, março/2027 nova janela)
 - [ ] Passo 3 formulado como troca de informação comercial, sem sugerir repasse de custo
 - [ ] Bloco fecha em atitude — requisito estrutural

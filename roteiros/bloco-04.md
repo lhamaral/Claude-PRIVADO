@@ -12,8 +12,18 @@ a conversa pronta para ter com os cinco maiores.
 > setor menos ouviu — e é o momento em que o empresário percebe que precisa de um
 > tributarista.
 >
-> ⚠️ **Bloqueante antes de gravar:** firme o item 1 do §7 da base técnica — extensão
-> exata da trava de crédito nas compras do próprio restaurante.
+> ✅ **Item 1 do §7 resolvido em agosto/2026:** o crédito do próprio restaurante sobre
+> suas compras é pleno, não restrito — a vedação do art. 276 atinge só o adquirente
+> (quem compra do restaurante), nunca o restaurante comprando de terceiros. Esse bloco
+> trata exclusivamente do lado do adquirente (cliente PJ), então nenhum episódio abaixo
+> precisou de ajuste por essa frente.
+>
+> ⚠️ **Ainda vale checar:** este bloco assume venda avulsa de alimentação ao cliente PJ
+> (convênio, refeição corporativa informal) — é a rota que sofre a vedação de crédito
+> em cheio. Se o cliente do episódio opera sob **catering formalizado por contrato**
+> (código NBS/CNAE próprio), a resposta muda — ver `roteiros/bloco-12.md`, onde essa
+> segunda rota gera crédito integral ao invés de bloquear. Os dois blocos, juntos,
+> cobrem as duas situações reais do setor.
 
 ---
 

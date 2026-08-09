@@ -130,11 +130,14 @@ de um aumento que não existe, e ignorar um problema de caixa que existe."
 
 ## E28 · O QUE SABER — "Já vale em 2027 pra venda de cartão no balcão?"
 
-**Base técnica:** ⚠️ §5 — **reconferir imediatamente antes de gravar**
+**Base técnica:** ✅ §5 — confirmado agosto/2026, Decreto 12.955/2026 e Resolução CGIBS 6/2026
 **159 palavras · ~57s**
 
-> ⚠️ **Bloqueante.** Episódio de desmentido. Confirme o desenho de entrada do split
-> (opcionalidade, restrição a B2B, meios alcançados). Se mudar, o episódio inverte.
+> ✅ **Confirmado.** Fase 1/2027 é opcional, restrita a operações entre empresas (B2B),
+> e alcança seis arranjos de pagamento: boleto, Pix Dinâmico, Pix Automático, Pix
+> Estático, TED e TEF. Dinheiro em espécie fica fora. O falado abaixo simplifica pra
+> "Pix, boleto e transferência" — está correto como resumo didático, mas se quiser
+> citar os seis arranjos por extenso, use a lista completa.
 
 ### FALADO
 
@@ -182,8 +185,8 @@ transferência vindo de CNPJ? Esse pedaço sente primeiro."
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] **`[VALIDAR]` bloqueante:** desenho de entrada, meios e opcionalidade
-- [ ] Reconferir imediatamente antes de gravar — tema em movimento
+- [x] Desenho de entrada, meios e opcionalidade — confirmado agosto/2026 (Fase 1/2027, B2B opcional, 6 arranjos de pagamento, dinheiro fica fora)
+- [ ] Reconfirmar perto da gravação apenas se a data de gravação for muito posterior a agosto/2026 — regulamentação de split ainda pode ganhar detalhamento adicional
 
 ---
 

@@ -71,7 +71,7 @@ por categoria dos últimos três meses."
 
 ## E22 · O QUE SABER — "Vendi R$ 100 no aplicativo e recebi R$ 80. Pago imposto sobre quanto?"
 
-**Base técnica:** ⚠️ §3
+**Base técnica:** ✅ §3 art. 399, §1º — mesmo dispositivo da gorjeta, confirmado agosto/2026
 **163 palavras · ~58s**
 
 ### FALADO
@@ -124,15 +124,15 @@ intermediação separada. Achou, ótimo. Não achou, manda um print pro contador
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] **`[VALIDAR]`:** redação e condições da exclusão de intermediação e entrega
-- [ ] `[VALIDAR]`: tratamento da entrega feita por equipe própria (é receita)
+- [x] Redação e condições da exclusão de intermediação e entrega — confirmado, art. 399 §1º trata gorjeta e valores de plataforma no mesmo dispositivo, com exigência de segregação
+- [ ] `[VALIDAR]`: tratamento da entrega feita por equipe própria (é receita) — não confirmado nesta rodada
 - [ ] Não nomear plataformas de modo a sugerir irregularidade
 
 ---
 
 ## E23 · O QUE SABER — "E os 10% do garçom, o couvert e a cortesia?"
 
-**Base técnica:** ⚠️ §3 — limite de 15%, art. 399, §1º, I
+**Base técnica:** ✅ gorjeta (§3, art. 399 §1º I, limite 15%, confirmado agosto/2026) · ⚠️ couvert artístico ainda não confirmado
 **167 palavras · ~60s**
 
 ### FALADO
@@ -186,10 +186,8 @@ minutos cada."
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] **`[VALIDAR]`:** dispositivo, limite de 15% e se o excedente é tributado só na
-      parcela que supera o limite — muda a conta do exemplo
-- [ ] **`[VALIDAR]` bloqueante:** enquadramento do couvert artístico; se não estiver
-      claro, gravar como tema não pacificado
+- [x] Dispositivo (art. 399, §1º, I), limite de 15% e tributação apenas do excedente — confirmado agosto/2026, a conta do exemplo está correta
+- [ ] **`[VALIDAR]` bloqueante:** enquadramento do couvert artístico continua sem fonte específica localizada; se não estiver claro até a gravação, manter como tema não pacificado
 
 ---
 

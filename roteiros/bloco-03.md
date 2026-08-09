@@ -7,9 +7,12 @@
 acaba, sabe o que é de fato a redução de 40%, sabe que bebida alcoólica ficou de fora,
 mede quanto da própria receita não recebeu desconto nenhum, e monta o orçamento de 2027.
 
-> ⚠️ **Bloqueante antes de gravar:** a vigência do regime especial de ICMS varia por
-> estado. Confirme na legislação do(s) estado(s) onde você atua e considere gravar uma
-> versão por estado.
+> ⚠️ **Confirmado o prazo geral, mas a vigência exata varia por estado — mantenha o
+> alerta.** O prazo de 31/12/2026 está ancorado no Convênio ICMS CONFAZ nº 125/2011 e
+> nas prorrogações estaduais, mas o **percentual em si muda de estado pra estado e pode
+> mudar no meio do próprio prazo** — São Paulo, por exemplo, prorrogou até 31/12/2026
+> mas reajustou a alíquota de 3,2% para 4% sobre a receita bruta. Confirme na legislação
+> do(s) estado(s) onde você atua e considere gravar uma versão por estado.
 
 ---
 
@@ -71,8 +74,8 @@ semana inteira vai usar esses números."
 
 ## E12 · O QUE SABER — "Ouvi dizer que restaurante vai pagar 40% menos imposto. É isso mesmo?"
 
-**Base técnica:** §2 · ⚠️ `[VALIDAR]` alíquota de referência
-**162 palavras · ~58s**
+**Base técnica:** ✅ §2 art. 275 (os 40% são fixos em lei) · 🟡 alíquota de base é estimativa (27,91%, CGIBS)
+**166 palavras · ~59s**
 
 ### FALADO
 
@@ -96,26 +99,30 @@ contrapartida na mesma lei, que mexe no crédito de quem compra de você. Pra or
 guarda a primeira. A segunda é o bloco da semana que vem."
 
 **[45–55s]**
-"Anota na sua pasta de orçamento: alíquota reduzida estimada, em torno de dezessete por
-cento, sobre uma base que não é a mesma que você usa hoje. Estimada — porque a alíquota
-de referência ainda vai ser fixada."
+"Anota na sua pasta de orçamento: alíquota reduzida estimada em torno de dezessete por
+cento, sobre uma base que não é a mesma que você usa hoje. O Comitê Gestor já divulgou
+uma estimativa oficial — vinte e sete vírgula noventa e um por cento, cheia — mas esse
+número está acima do teto que a própria lei estabeleceu, então ele ainda deve mudar."
 
 **[55–60s]**
 "Reforma no Balcão. Um minuto por dia."
 
 ### TEXTOS NA TELA
-`O DESCONTO EXISTE` → `−40% SOBRE A ALÍQUOTA` → `~28% → ~17% (ESTIMADO)` →
-`OUTRA BASE DE CÁLCULO` · rodapé: *LC 214/2025, art. 275*
+`O DESCONTO É FIXO EM LEI: 40%` → `INCIDE SOBRE UMA BASE AINDA ESTIMADA` →
+`27,91% → ~17% (ESTIMADO)` → `OUTRA BASE DE CÁLCULO` · rodapé: *LC 214/2025, art. 275*
 
 ### LEGENDA
 > Sim, o setor tem regra própria: redução de 40% nas alíquotas de IBS e CBS sobre o
-> fornecimento de alimentação (LC 214/2025, art. 275).
+> fornecimento de alimentação — texto literal do art. 275 da LC 214/2025, fixo em lei,
+> não é estimativa.
 >
 > Duas correções que importam para orçamento:
 >
-> **1.** Os 40% incidem sobre a alíquota, não sobre o imposto pago hoje. Com a alíquota
-> de referência estimada perto de 28%, a efetiva do setor fica em torno de 17% — e sobre
-> uma base de cálculo diferente da atual. O número ainda é estimativa.
+> **1.** Os 40% incidem sobre a alíquota de base, não sobre o imposto pago hoje. Essa
+> alíquota de base é que ainda é estimativa: o Comitê Gestor (CGIBS) já divulgou 27,91%,
+> mas esse número está acima do teto de 26,5% que a própria lei fixou — então ainda deve
+> se ajustar. Com 27,91%, a efetiva do setor fica perto de 17%; sobre uma base de cálculo
+> diferente da atual.
 >
 > **2.** O desconto veio acompanhado de restrição de crédito. É o assunto do próximo
 > bloco.
@@ -123,7 +130,8 @@ de referência ainda vai ser fixada."
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] `[VALIDAR]` alíquota de referência — dizer sempre "estimada"
+- [x] Os 40% são fixos em lei (art. 275) — confirmado, não é estimativa
+- [ ] `[VALIDAR]` alíquota de base final — hoje 27,91% (CGIBS), acima do teto de 26,5% — dizer sempre "estimada"
 - [ ] Não afirmar economia garantida
 
 ---
@@ -243,7 +251,7 @@ na segunda. Amanhã a gente monta o orçamento com esses dois números."
 
 ## E15 · A ATITUDE — "Como eu monto meu orçamento de 2027?"
 
-**Base técnica:** §1, §2 · ⚠️ `[VALIDAR]` alíquota de referência
+**Base técnica:** §1, §2 · 🟡 alíquota de base é estimativa (27,91%, CGIBS, acima do teto de 26,5%)
 **166 palavras · ~59s**
 
 ### FALADO
@@ -297,6 +305,6 @@ dar essa resposta de fora."
 > *[ressalva padrão]*
 
 ### CHECAGEM
-- [ ] **`[VALIDAR]`:** alíquota de referência — repetir "estimada" em tela e na fala
+- [ ] Alíquota de base ainda estimada (27,91%, acima do teto legal de 26,5%) — repetir "estimada" em tela e na fala; os 40% de desconto em si (art. 275) são fixos e não precisam dessa ressalva
 - [ ] Nenhuma projeção apresentada como resultado garantido
 - [ ] Bloco fecha em atitude com entregável concreto (a planilha de três cenários)

@@ -191,13 +191,19 @@ rende episódio e rende trabalho.
 ## 4. Simples Nacional — a decisão de setembro de 2026
 
 ✅ Empresas do Simples poderão recolher IBS e CBS pelo **regime regular** a partir
-de 2027. ✅ **Confirmado agosto/2026 (notícia oficial CGSN/Receita Federal):** o
-prazo de opção é **de 1º a 30 de setembro de 2026**, pelo portal do Simples
-Nacional. Detalhe adicional relevante para o roteiro: a opção pelo regime regular
-feita em setembro **vale só para o período de janeiro a junho de 2027** — é preciso
-reconfirmar depois se a segunda janela (2º semestre/2027 em diante) terá prazo e
-procedimento próprios. Vale mencionar isso no E05 (A ATITUDE) do Bloco 1: a decisão
-de setembro não é "de uma vez pra sempre", é o primeiro semestre de teste.
+de 2027. ✅ **Totalmente confirmado (Resolução CGSN nº 186/2026):**
+
+- Opção exercida **de 1º a 30 de setembro de 2026**, pelo portal do Simples Nacional,
+  com efeitos a partir de 1º de janeiro de 2027.
+- A opção **vale apenas para janeiro a junho de 2027** — não é decisão anual.
+- **Nova janela em março de 2027** para decidir o segundo semestre de 2027 em diante.
+- A opção pode ser **cancelada de forma irretratável até 30 de novembro de 2026**.
+- Empresas constituídas entre 1º de outubro e 31 de dezembro de 2026 fazem a opção
+  no próprio momento da inscrição no CNPJ, também com efeito limitado a jan-jun/2027.
+- Optar pelo regime regular do IBS/CBS **não exclui a empresa do Simples Nacional**
+  para os demais tributos — só os retira do DAS especificamente para IBS/CBS.
+
+Bloco 1 (E01 e E05) já reflete essas duas datas e a segunda janela.
 
 ### As duas rotas
 
