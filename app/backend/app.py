@@ -6,8 +6,8 @@ from flask import Flask, request, jsonify, render_template, Response
 
 import models
 import reports
-from calculator import calcular_dose
-from config import PRESCRICAO_PADRAO
+from calculator import calcular_dose, calcular_dose_fixa, calcular_correcao_basal
+from config import PRESCRICAO_PADRAO, MEDICACOES_CONTINUAS
 
 app = Flask(
     __name__,
@@ -55,6 +55,53 @@ def api_calcular_dose():
     cfg = models.get_config()
     sugestao = calcular_dose(carbs, glicemia, cfg)
     return jsonify(sugestao.__dict__)
+
+
+@app.route("/api/calcular_dose_fixa", methods=["POST"])
+def api_calcular_dose_fixa():
+    """Referência da receita (dose fixa) — não somar à contagem de carboidratos."""
+    body = request.get_json(force=True)
+    cfg = models.get_config()
+    sugestao = calcular_dose_fixa(body["refeicao"], int(body["glicemia_atual_mgdl"]), cfg)
+    return jsonify(sugestao.__dict__)
+
+
+@app.route("/api/calcular_correcao_basal", methods=["POST"])
+def api_calcular_correcao_basal():
+    body = request.get_json(force=True)
+    cfg = models.get_config()
+    sugestao = calcular_correcao_basal(int(body["glicemia_jejum_mgdl"]), cfg)
+    return jsonify(sugestao.__dict__)
+
+
+# ---------- medicações contínuas ----------
+
+@app.route("/api/medicacoes", methods=["GET"])
+def api_listar_medicacoes():
+    hoje = date.today().isoformat()
+    conn = models.get_connection()
+    tomadas_hoje = conn.execute(
+        "SELECT nome, datahora FROM medicacoes_log WHERE date(datahora) = ? ORDER BY datahora",
+        (hoje,),
+    ).fetchall()
+    conn.close()
+    return jsonify({
+        "prescritas": MEDICACOES_CONTINUAS,
+        "tomadas_hoje": [dict(r) for r in tomadas_hoje],
+    })
+
+
+@app.route("/api/medicacoes", methods=["POST"])
+def api_registrar_medicacao():
+    body = request.get_json(force=True)
+    conn = models.get_connection()
+    conn.execute(
+        "INSERT INTO medicacoes_log (datahora, nome, observacoes) VALUES (?, ?, ?)",
+        (body.get("datahora") or _now(), body["nome"], body.get("observacoes")),
+    )
+    conn.commit()
+    conn.close()
+    return jsonify({"ok": True}), 201
 
 
 # ---------- refeições ----------
@@ -228,6 +275,11 @@ def export_doses():
         "doses_insulina",
         ["id", "datahora", "tipo", "insulina", "unidades", "refeicao_id", "glicemia_id", "observacoes"],
     )
+
+
+@app.route("/api/export/medicacoes.csv")
+def export_medicacoes():
+    return _export_csv("medicacoes_log", ["id", "datahora", "nome", "observacoes"])
 
 
 if __name__ == "__main__":

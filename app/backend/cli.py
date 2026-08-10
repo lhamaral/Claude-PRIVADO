@@ -13,7 +13,7 @@ import argparse
 from datetime import datetime
 
 import models
-from calculator import calcular_dose
+from calculator import calcular_dose, calcular_dose_fixa, calcular_correcao_basal
 from config import PRESCRICAO_PADRAO
 
 models.init_db()
@@ -70,6 +70,29 @@ def cmd_calcular(args):
     print(sugestao.detalhes)
 
 
+def cmd_dosefixa(args):
+    cfg = models.get_config()
+    sugestao = calcular_dose_fixa(args.refeicao, args.glicemia_atual_mgdl, cfg)
+    print(sugestao.detalhes)
+
+
+def cmd_basal(args):
+    cfg = models.get_config()
+    sugestao = calcular_correcao_basal(args.glicemia_jejum_mgdl, cfg)
+    print(sugestao.detalhes)
+
+
+def cmd_medicacao(args):
+    conn = models.get_connection()
+    conn.execute(
+        "INSERT INTO medicacoes_log (datahora, nome, observacoes) VALUES (?, ?, ?)",
+        (args.datahora or _now(), args.nome, args.observacoes),
+    )
+    conn.commit()
+    conn.close()
+    print(f"Medicação registrada: {args.nome}")
+
+
 def main():
     parser = argparse.ArgumentParser()
     sub = parser.add_subparsers(dest="comando", required=True)
@@ -105,6 +128,21 @@ def main():
     p_calc.add_argument("--carboidratos_g", type=float, default=0)
     p_calc.add_argument("--glicemia_atual_mgdl", type=int, required=True)
     p_calc.set_defaults(func=cmd_calcular)
+
+    p_fixa = sub.add_parser("dosefixa", help="Referência da receita — não somar à contagem de carboidratos")
+    p_fixa.add_argument("--refeicao", required=True, choices=["cafe", "almoco", "jantar"])
+    p_fixa.add_argument("--glicemia_atual_mgdl", type=int, required=True)
+    p_fixa.set_defaults(func=cmd_dosefixa)
+
+    p_basal = sub.add_parser("basal", help="Correção da dose basal (Glargina) pela glicemia de jejum")
+    p_basal.add_argument("--glicemia_jejum_mgdl", type=int, required=True)
+    p_basal.set_defaults(func=cmd_basal)
+
+    p_med = sub.add_parser("medicacao")
+    p_med.add_argument("--nome", required=True)
+    p_med.add_argument("--observacoes", default=None)
+    p_med.add_argument("--datahora", default=None)
+    p_med.set_defaults(func=cmd_medicacao)
 
     args = parser.parse_args()
     args.func(args)

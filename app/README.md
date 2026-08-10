@@ -19,13 +19,34 @@ esta ferramenta.
 
 ## Prescrição usada como referência (configurável em `backend/config.py` ou na tela "Configurações")
 
-- Basal: Glargina, 16 UI, 1x/dia pela manhã
-- Bolus: Fiasp, razão 1 UI : 20 g de carboidrato
-- Fator de sensibilidade: 1 UI reduz ~50 mg/dL
-- Meta de glicemia: 100 mg/dL (faixa alvo 70–180 mg/dL)
-- Correção: a partir de 180 mg/dL, aplicar (glicemia − 100) ÷ 50 UI adicionais
-- Abaixo de 100 mg/dL: reduzir a dose de bolus proporcionalmente
-  (regra inferida — **confirme com seu médico** o critério exato de redução)
+Baseada na receita de Dr. Severino de Almeida (CREMEB 6175, RQE 4003 —
+Cliendi Prev Endocrinologia), 06/08/2026.
+
+- **Basal**: Glargina (Glargilin), 16 UI, 1x/dia antes do café da manhã.
+  Meta de jejum: 100–160 mg/dL.
+- **Correção da basal** (regra separada, 1x/dia, pela glicemia de JEJUM):
+  jejum < 100 → reduzir 2 UI (14 UI) · jejum > 160 → aumentar 2 UI (18 UI).
+- **Bolus (Fiasp)** — dois métodos estão na receita:
+  - *Contagem de carboidratos* (método usado como principal neste app,
+    por ser o objetivo do projeto e o método recomendado pela SBD para
+    quem faz múltiplas aplicações diárias): razão 1 UI : 20 g de carboidrato.
+  - *Dose fixa* (alternativa da receita para refeições padronizadas, só
+    exibida como referência/comparação — **não some as duas**): 6 UI no
+    café, 4 UI no almoço, 4 UI no jantar, se glicemia > 120 mg/dL.
+- **Fator de sensibilidade**: 1 UI reduz ~50 mg/dL. Exemplo da receita:
+  glicemia 250 → 3 UI ((250−100)÷50), consistente com meta 100.
+- Faixa alvo geral (uso diário, TIR): 70–180 mg/dL (conforme você descreveu).
+
+### ⚠️ Pendente de confirmação com o médico
+
+- **Gatilho de correção do bolus por contagem de carboidratos**: a receita
+  usa 120 mg/dL para a dose fixa; você descreveu 180–200 mg/dL para a
+  contagem de carboidratos. O app usa 180 mg/dL por padrão
+  (`correcao_inicio_mgdl`) — confirme qual valor vale para o seu caso.
+- **Redução do bolus quando a glicemia pré-refeição está baixa** (abaixo de
+  100 mg/dL): a receita não detalha essa regra para o Fiasp (só para a
+  basal). O app aplica `(100 − glicemia) ÷ 50` como redução do bolus, mas
+  isso é uma inferência, não algo escrito na receita — confirme com o médico.
 
 ## Como rodar
 
@@ -75,6 +96,9 @@ python backend/cli.py refeicao --descricao "arroz, feijão, frango grelhado" --c
 python backend/cli.py glicemia --valor_mgdl 142 --contexto pre_refeicao
 python backend/cli.py calcular --carboidratos_g 55 --glicemia_atual_mgdl 142
 python backend/cli.py dose --tipo bolus_refeicao --insulina Fiasp --unidades 2.8
+python backend/cli.py basal --glicemia_jejum_mgdl 168
+python backend/cli.py dosefixa --refeicao almoco --glicemia_atual_mgdl 135
+python backend/cli.py medicacao --nome "Creon 25.000"
 ```
 
 ## Exportação de dados
@@ -83,6 +107,14 @@ Na aba "Histórico", ou diretamente pelas rotas:
 - `/api/export/refeicoes.csv`
 - `/api/export/glicemias.csv`
 - `/api/export/doses.csv`
+- `/api/export/medicacoes.csv`
+
+## Medicações contínuas
+
+A receita também lista medicações não relacionadas à glicemia, com um
+checklist diário na aba "Registrar": Creon 25.000 (a cada refeição),
+Rosuvastatina 20mg + Ezetimibe 10mg (após o jantar), Andractive Peyronie
+(1x/dia). A lista está em `backend/config.py` (`MEDICACOES_CONTINUAS`).
 
 ## Relatórios disponíveis
 

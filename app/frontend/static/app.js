@@ -61,6 +61,51 @@ document.getElementById("form-calc").addEventListener("submit", async (e) => {
     `Total sugerido: ${res.total_ui} UI\n\n${res.detalhes}`;
 });
 
+document.getElementById("form-basal").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const body = formToJson(e.target);
+  const res = await postJson("/api/calcular_correcao_basal", body);
+  document.getElementById("basal-resultado").textContent = res.detalhes;
+});
+
+document.getElementById("form-dosefixa").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const body = formToJson(e.target);
+  const res = await postJson("/api/calcular_dose_fixa", body);
+  document.getElementById("dosefixa-resultado").textContent = res.detalhes;
+});
+
+// ---------- medicações contínuas ----------
+
+async function carregarMedicacoes() {
+  const el = document.getElementById("lista-medicacoes");
+  if (!el) return;
+  const { prescritas, tomadas_hoje } = await (await fetch("/api/medicacoes")).json();
+  const tomadosNomes = new Set(tomadas_hoje.map((t) => t.nome));
+
+  el.innerHTML = prescritas
+    .map((m) => {
+      const tomado = tomadosNomes.has(m.nome);
+      return `<div class="med-item">
+        <label style="flex-direction: row; align-items: center; gap: 0.5rem;">
+          <input type="checkbox" data-nome="${m.nome}" ${tomado ? "checked disabled" : ""}>
+          <span>${m.nome} — ${m.posologia}</span>
+        </label>
+      </div>`;
+    })
+    .join("");
+
+  el.querySelectorAll("input[type=checkbox]").forEach((chk) => {
+    chk.addEventListener("change", async () => {
+      if (!chk.checked) return;
+      await postJson("/api/medicacoes", { nome: chk.dataset.nome });
+      chk.disabled = true;
+    });
+  });
+}
+
+carregarMedicacoes();
+
 // ---------- dashboard ----------
 
 let chartTIR, chartCurva, chartPadrao;

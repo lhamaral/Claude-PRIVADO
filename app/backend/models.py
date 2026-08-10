@@ -27,6 +27,13 @@ CREATE TABLE IF NOT EXISTS glicemias (
     observacoes TEXT
 );
 
+CREATE TABLE IF NOT EXISTS medicacoes_log (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    datahora TEXT NOT NULL,
+    nome TEXT NOT NULL,
+    observacoes TEXT
+);
+
 CREATE TABLE IF NOT EXISTS doses_insulina (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     datahora TEXT NOT NULL,
